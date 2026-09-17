@@ -1,0 +1,754 @@
+{
+  "snapshots": [
+    {
+      "id": "snap_1787767264729_z42m6f",
+      "timestamp": 1787767264729,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "ccfc84e0841c",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767280704_ravzi1",
+      "timestamp": 1787767280704,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "311a64c83972",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767283049_5rubxn",
+      "timestamp": 1787767283049,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "c718843802ac",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767285756_4iats6",
+      "timestamp": 1787767285756,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "c7b1c74d352d",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767287273_kllcqi",
+      "timestamp": 1787767287273,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "d25e6867201f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767298529_rd4369",
+      "timestamp": 1787767298529,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "8ef93f3fbd53",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767310804_krzhu8",
+      "timestamp": 1787767310804,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Rightbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "dd023d60a6e9",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767312307_cxejyt",
+      "timestamp": 1787767312307,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Rightbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "836309efbd60",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1787767315326_bi4ugg",
+      "timestamp": 1787767315326,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Rightbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005719126_kp71tx",
+      "timestamp": 1788005719126,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "469541955cb4",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005721561_4nxiz0",
+      "timestamp": 1788005721561,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005722971_j6amfj",
+      "timestamp": 1788005722971,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "e3afb9555045",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005742175_lnr2jn",
+      "timestamp": 1788005742175,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005760187_jyjfst",
+      "timestamp": 1788005760187,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\App.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "f325e588f754",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788005761999_jacafe",
+      "timestamp": 1788005761999,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\App.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006922660_3ys1hn",
+      "timestamp": 1788006922660,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "e5ca13c4ae33",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006926101_s0u2g5",
+      "timestamp": 1788006926101,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "8c16da3e3e3b",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006930654_3ij2tx",
+      "timestamp": 1788006930654,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006933515_stcct1",
+      "timestamp": 1788006933515,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "c0d3a4d395cc",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006936333_jddt3s",
+      "timestamp": 1788006936333,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "c5a77db5d32d",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006938956_g2bq1m",
+      "timestamp": 1788006938956,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "c0d3a4d395cc",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788006940685_gghjdk",
+      "timestamp": 1788006940685,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\components\\Leftbar.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788007174295_33vhjo",
+      "timestamp": 1788007174295,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\App.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788007183427_2otn9o",
+      "timestamp": 1788007183427,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\App.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "9af20a39307f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788010691037_0lba2z",
+      "timestamp": 1788010691037,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "1c32b278105f",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788010694348_i4y8us",
+      "timestamp": 1788010694348,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "21fd8e526a44",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788010694948_7i03ge",
+      "timestamp": 1788010694948,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "988980705a59",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788025300857_6vqs06",
+      "timestamp": 1788025300857,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "00c281c92940",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788025390080_v9srx0",
+      "timestamp": 1788025390080,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\index.css"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "32bd8d1ff631",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "e7cd5ad74aca",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    },
+    {
+      "id": "snap_1788189482691_uhuaz4",
+      "timestamp": 1788189482691,
+      "description": "File saved",
+      "affectedFiles": [
+        "src\\App.jsx"
+      ],
+      "workspaceState": {
+        ".gitignore": "fe718e7babb1",
+        "eslint.config.js": "0197d9a843aa",
+        "index.html": "403d3f6913e4",
+        "package-lock.json": "227128be265d",
+        "package.json": "88cd4a665c72",
+        "README.md": "a460b4dc7e63",
+        "src\\App.jsx": "88b1481fc6c6",
+        "src\\assets\\assets.js": "12fc1ed7aea2",
+        "src\\components\\Icon.jsx": "935c8cd290df",
+        "src\\components\\Leftbar.jsx": "bbf67ceb3b7a",
+        "src\\components\\Player.jsx": "ddbe4b4208fb",
+        "src\\components\\Rightbar.jsx": "21b222235a7b",
+        "src\\index.css": "e7cd5ad74aca",
+        "src\\main.jsx": "4b4b864dbe45",
+        "vite.config.js": "58b73b447230"
+      }
+    }
+  ]
+}
