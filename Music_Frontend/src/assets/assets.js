@@ -22,61 +22,6 @@ import song4 from "./IntoIt.mp3";
 import song5 from "./Hotelroom.mp3";
 import song6 from "./LoversRock.mp3";
 
-// import {
-//   FaBell,
-//   FaHome,
-//   FaHeart,
-//   FaRedo,
-//   FaMicrophone,
-//   FaStepForward,
-//   FaPlay,
-//   FaPlayCircle,
-//   FaStepBackward,
-//   FaSearch,
-//   FaRandom,
-//   FaVolumeUp,
-//   FaLayerGroup,
-//   FaSearchPlus,
-//   FaPlus,
-//   FaArrowLeft,
-//   FaArrowRight,
-//   FaCompress,
-//   FaVolumeDown,
-//   FaList,
-//   FaPause,
-//   FaClock,
-// } from "react-icons/fa";
-// import { SiApple } from "react-icons/si";
-
-// function Icon() {
-//   return (
-//         <FaBell /> <br />
-//         <FaHome /> <br />
-//         <FaHeart /> <br />
-//         <FaRedo /> <br />
-//         <FaMicrophone /> <br />
-//         <FaStepForward /> <br />
-//         <FaPlay /> <br />
-//         <FaPlayCircle /> <br />
-//         <FaStepBackward /> <br />
-//         <FaSearch /> <br />
-//         <FaRandom /> <br />
-//         <FaVolumeUp /> <br />
-//         <FaLayerGroup /> <br />
-//         <FaSearchPlus /> <br />
-//         <FaPlus /> <br />
-//         <FaArrowLeft /> <br />
-//         <FaArrowRight /> <br />
-//         <FaCompress /> <br />
-//         <FaVolumeDown /> <br />
-//         <FaList /> <br />
-//         <FaPause /> <br />
-//         <FaClock /> <br />
-//         <SiApple color="#b9251d" /> <br />
-      
-// }
-
-// export const Icon
 export const albumsData = [
   {
     id: 0,
@@ -188,3 +133,59 @@ export const songsData = [
     duration: "2:35",
   },
 ];
+
+// import {
+//   FaBell,
+//   FaHome,
+//   FaHeart,
+//   FaRedo,
+//   FaMicrophone,
+//   FaStepForward,
+//   FaPlay,
+//   FaPlayCircle,
+//   FaStepBackward,
+//   FaSearch,
+//   FaRandom,
+//   FaVolumeUp,
+//   FaLayerGroup,
+//   FaSearchPlus,
+//   FaPlus,
+//   FaArrowLeft,
+//   FaArrowRight,
+//   FaCompress,
+//   FaVolumeDown,
+//   FaList,
+//   FaPause,
+//   FaClock,
+// } from "react-icons/fa";
+// import { SiApple } from "react-icons/si";
+
+// function Icon() {
+//   return (
+//         <FaBell /> <br />
+//         <FaHome /> <br />
+//         <FaHeart /> <br />
+//         <FaRedo /> <br />
+//         <FaMicrophone /> <br />
+//         <FaStepForward /> <br />
+//         <FaPlay /> <br />
+//         <FaPlayCircle /> <br />
+//         <FaStepBackward /> <br />
+//         <FaSearch /> <br />
+//         <FaRandom /> <br />
+//         <FaVolumeUp /> <br />
+//         <FaLayerGroup /> <br />
+//         <FaSearchPlus /> <br />
+//         <FaPlus /> <br />
+//         <FaArrowLeft /> <br />
+//         <FaArrowRight /> <br />
+//         <FaCompress /> <br />
+//         <FaVolumeDown /> <br />
+//         <FaList /> <br />
+//         <FaPause /> <br />
+//         <FaClock /> <br />
+//         <SiApple color="#b9251d" /> <br />
+      
+// }
+
+// export const Icon
