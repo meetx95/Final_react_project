@@ -25,7 +25,7 @@ function Player() {
         </button>
       </div>
 
-      {/* CENTER - CONTROLS */}
+      {/* Center control */}
       <div className="player-center">
         <div className="player-controls">
           <button className="control-btn">
