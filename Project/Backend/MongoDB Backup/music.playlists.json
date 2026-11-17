@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "6ae4870360ffb65242473491"
+  },
+  "name": "vibe",
+  "description": "",
+  "owner": {
+    "$oid": "6ae48542d7b867a0dc8b0d99"
+  },
+  "coverImage": "",
+  "songs": [
+    {
+      "$oid": "6ae234815edf9cb7b9007c95"
+    }
+  ],
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2026-10-30T12:01:07.832Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T12:01:27.044Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6ae4a5a915d72ce09f5d7e77"
+  },
+  "name": "HHH",
+  "description": "",
+  "owner": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "coverImage": "",
+  "songs": [
+    {
+      "$oid": "6ae234815edf9cb7b9007c94"
+    }
+  ],
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2026-10-30T14:11:53.439Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:13.186Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6ae993b39f0e540e14420047"
+  },
+  "name": "VIBE",
+  "description": "",
+  "owner": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "coverImage": "",
+  "songs": [],
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2026-11-03T07:56:35.573Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-03T07:56:35.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0441131f4375026f32a86"
+  },
+  "name": "VIBES",
+  "description": "",
+  "owner": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "coverImage": "",
+  "songs": [
+    {
+      "$oid": "6af02dcf9b610ba9e3660d48"
+    }
+  ],
+  "isPublic": false,
+  "createdAt": {
+    "$date": "2026-11-08T09:42:41.434Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:43:55.665Z"
+  },
+  "__v": 1
+}]

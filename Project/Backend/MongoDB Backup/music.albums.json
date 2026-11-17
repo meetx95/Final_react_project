@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba24"
+  },
+  "title": "Anime Memories",
+  "artist": null,
+  "description": "Emotional anime soundtracks and unforgettable melodies.",
+  "genre": "Anime OST",
+  "coverImage": "/media/images/albums/album1.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba25"
+  },
+  "title": "Psychedelic Dreams",
+  "artist": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "description": "A psychedelic journeyby Tame Impala.",
+  "genre": "Psychedelic Pop",
+  "coverImage": "/media/images/albums/album2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba26"
+  },
+  "title": "Softcore",
+  "artist": null,
+  "description": "Dreamy indie music and soft alternative sounds.",
+  "genre": "Dream Pop",
+  "coverImage": "/media/images/albums/album3.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba27"
+  },
+  "title": "Midnight Phonk",
+  "artist": null,
+  "description": "Dark bass, phonk beats and atmospheric rhythms.",
+  "genre": "Phonk",
+  "coverImage": "/media/images/albums/album4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba28"
+  },
+  "title": "Electro Nights",
+  "artist": null,
+  "description": "Electronic sounds for endless nights.",
+  "genre": "Electronic",
+  "coverImage": "/media/images/albums/album5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba29"
+  },
+  "title": "Memoriesv Mix",
+  "artist": null,
+  "description": "Late night alternative and atmospheric music.",
+  "genre": "Alternative",
+  "coverImage": "/media/images/albums/album6.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2a"
+  },
+  "title": "Neon Dreams",
+  "artist": null,
+  "description": "Retro futuristic synthwave and electronic music.",
+  "genre": "Synthwave",
+  "coverImage": "/media/images/albums/album7.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2b"
+  },
+  "title": "Indie Universe",
+  "artist": null,
+  "description": "Independent artists and beautiful indie melodies.",
+  "genre": "Indie",
+  "coverImage": "/media/images/albums/album8.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2c"
+  },
+  "title": "Lo-Fi Station",
+  "artist": null,
+  "description": "Relaxing beats for studying and focusing.",
+  "genre": "Lo-Fi",
+  "coverImage": "/media/images/albums/album9.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2d"
+  },
+  "title": "Dark Academia",
+  "artist": null,
+  "description": "Mysterious classical and atmospheric compositions.",
+  "genre": "Classical",
+  "coverImage": "/media/images/albums/album10.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2e"
+  },
+  "title": "Eternal Melodies",
+  "artist": null,
+  "description": "Beautiful romantic and nostalgic melodies.",
+  "genre": "Pop",
+  "coverImage": "/media/images/albums/album11.jpg"
+},
+{
+  "_id": {
+    "$oid": "6aef51e6bf2ef5161997ba2f"
+  },
+  "title": "Lost in the 80s",
+  "artist": null,
+  "description": "Vintage pop, retro beats and nostalgic sounds.",
+  "genre": "Retro Pop",
+  "coverImage": "/media/images/albums/album12.jpg"
+}]

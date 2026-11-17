@@ -1,0 +1,938 @@
+[{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "title": "Music to watch boys to",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de8f"
+  },
+  "genre": "Pop",
+  "duration": 210,
+  "audioUrl": "/media/songs/song1.mp3",
+  "coverImage": "/media/images/song1.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-05T15:55:51.791Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "title": "Moth To A Flame",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song2.mp3",
+  "coverImage": "/media/images/song2.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-07T15:35:52.658Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c92"
+  },
+  "title": "Snowman",
+  "artist": {
+    "$oid": "6ae6136297a52730cf5ffdd2"
+  },
+  "genre": "Pop",
+  "duration": 152,
+  "audioUrl": "/media/songs/song3.mp3",
+  "coverImage": "/media/images/song3.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:06.766Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c93"
+  },
+  "title": "Into It",
+  "artist": {
+    "$oid": "6ae6150297a52730cf5ffdd3"
+  },
+  "genre": "R&B",
+  "duration": 170,
+  "audioUrl": "/media/songs/song4.mp3",
+  "coverImage": "/media/images/song4.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T09:47:03.273Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "title": "﻿The sexy you is out uh... Push the feeling on x Hotel room",
+  "artist": {
+    "$oid": "6ae61b6b97a52730cf5ffdd4"
+  },
+  "genre": "Alternative",
+  "duration": 190,
+  "audioUrl": "/media/songs/song5.mp3",
+  "coverImage": "/media/images/song5.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-08T09:56:37.250Z"
+  },
+  "album": {
+    "$oid": "6aef51e6bf2ef5161997ba24"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c95"
+  },
+  "title": "Lovers Rock",
+  "artist": {
+    "$oid": "6ae61c6197a52730cf5ffdd5"
+  },
+  "genre": "Indie pop",
+  "duration": 165,
+  "audioUrl": "/media/songs/song6.mp3",
+  "coverImage": "/media/images/song6.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T09:50:47.064Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c96"
+  },
+  "title": "505",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de95"
+  },
+  "genre": "Indie Rock",
+  "duration": 265,
+  "audioUrl": "/media/songs/song7.mp3",
+  "coverImage": "/media/images/song7.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T16:09:11.240Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c97"
+  },
+  "title": "Double Take",
+  "artist": {
+    "$oid": "6ae61f3097a52730cf5ffdd7"
+  },
+  "genre": "R&B",
+  "duration": 216,
+  "audioUrl": "/media/songs/song8.mp3",
+  "coverImage": "/media/images/song8.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:55.978Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c98"
+  },
+  "title": "Dracula",
+  "artist": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "genre": "electropop",
+  "duration": 253,
+  "audioUrl": "/media/songs/song9.mp3",
+  "coverImage": "/media/images/song9.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:59.325Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c99"
+  },
+  "title": "Golden Brown",
+  "artist": {
+    "$oid": "6ae6215c97a52730cf5ffdd9"
+  },
+  "genre": "R&B/pop hybrid",
+  "duration": 272,
+  "audioUrl": "/media/songs/song10.mp3",
+  "coverImage": "/media/images/song10.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-29T16:25:01.944Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9a"
+  },
+  "title": "Good For You x One Of The Girls",
+  "artist": {
+    "$oid": "6ae6265897a52730cf5ffdda"
+  },
+  "genre": "Pop",
+  "duration": 243,
+  "audioUrl": "/media/songs/song11.mp3",
+  "coverImage": "/media/images/song11.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T10:03:40.965Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9b"
+  },
+  "title": "Let It Happen",
+  "artist": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "genre": "Electronic",
+  "duration": 259,
+  "audioUrl": "/media/songs/song12.mp3",
+  "coverImage": "/media/images/song12.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T10:06:10.429Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9c"
+  },
+  "title": "Loser",
+  "artist": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "genre": "Alternative",
+  "duration": 256,
+  "audioUrl": "/media/songs/song13.mp3",
+  "coverImage": "/media/images/song13.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-07T16:54:33.180Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9d"
+  },
+  "title": "Losing Interest",
+  "artist": {
+    "$oid": "6ae6ed841044b04db43a6a07"
+  },
+  "genre": "Lo-Fi",
+  "duration": 161,
+  "audioUrl": "/media/songs/song14.mp3",
+  "coverImage": "/media/images/song14.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-29T16:25:01.944Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9e"
+  },
+  "title": "No Idea",
+  "artist": {
+    "$oid": "6ae6effe1044b04db43a6a0c"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song15.mp3",
+  "coverImage": "/media/images/song15.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:54.382Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007c9f"
+  },
+  "title": "On My Way",
+  "artist": {
+    "$oid": "6ae710eb4aa5d74f7332d191"
+  },
+  "genre": "Pop",
+  "duration": 111,
+  "audioUrl": "/media/songs/song16.mp3",
+  "coverImage": "/media/images/song16.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T10:14:37.191Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "title": "Our Time",
+  "artist": {
+    "$oid": "6ae7141b4aa5d74f7332d192"
+  },
+  "genre": "Hip-Hop",
+  "duration": 201,
+  "audioUrl": "/media/songs/song17.mp3",
+  "coverImage": "/media/images/song17.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T10:17:51.413Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "title": "Play Date",
+  "artist": {
+    "$oid": "6ae716534aa5d74f7332d193"
+  },
+  "genre": "Indie Pop",
+  "duration": 225,
+  "audioUrl": "/media/songs/song18.mp3",
+  "coverImage": "/media/images/song18.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-03T03:49:22.839Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca2"
+  },
+  "title": "Reminder",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "R&B",
+  "duration": 243,
+  "audioUrl": "/media/songs/song19.mp3",
+  "coverImage": "/media/images/song19.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-03T03:52:23.503Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca3"
+  },
+  "title": "Ride It",
+  "artist": {
+    "$oid": "6ae718484aa5d74f7332d194"
+  },
+  "genre": "Dance",
+  "duration": 234,
+  "audioUrl": "/media/songs/song20.mp3",
+  "coverImage": "/media/images/song20.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:12.941Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "title": "Roi",
+  "artist": {
+    "$oid": "6ae71d8b4aa5d74f7332d195"
+  },
+  "genre": "Synth-pop",
+  "duration": 243,
+  "audioUrl": "/media/songs/song21.mp3",
+  "coverImage": "/media/images/song21.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T17:25:17.056Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca5"
+  },
+  "title": "Senorita",
+  "artist": {
+    "$oid": "6ae77a9eee1c93c318548f28"
+  },
+  "genre": "Latin Pop",
+  "duration": 228,
+  "audioUrl": "/media/songs/song22.mp3",
+  "coverImage": "/media/images/song22.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T17:22:14.401Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca6"
+  },
+  "title": "Shadows",
+  "artist": {
+    "$oid": "6ae77beaee1c93c318548f29"
+  },
+  "genre": "Indie",
+  "duration": 215,
+  "audioUrl": "/media/songs/song23.mp3",
+  "coverImage": "/media/images/song23.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T17:47:29.188Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca7"
+  },
+  "title": "Stereo Love",
+  "artist": {
+    "$oid": "6ae77d68ee1c93c318548f2a"
+  },
+  "genre": "Dance",
+  "duration": 184,
+  "audioUrl": "/media/songs/song24.mp3",
+  "coverImage": "/media/images/song24.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T17:55:01.012Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "title": "Telepatia",
+  "artist": {
+    "$oid": "6ae77e31ee1c93c318548f2b"
+  },
+  "genre": "Indie Folk",
+  "duration": 177,
+  "audioUrl": "/media/songs/song25.mp3",
+  "coverImage": "/media/images/song25.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-07T16:18:20.988Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "title": "The Less I Know The Better",
+  "artist": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "genre": "Latin R&B",
+  "duration": 209,
+  "audioUrl": "/media/songs/song26.mp3",
+  "coverImage": "/media/images/song26.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:04:36.994Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007caa"
+  },
+  "title": "Alone, Pt II",
+  "artist": {
+    "$oid": "6ae710eb4aa5d74f7332d191"
+  },
+  "genre": "Alternative Rock",
+  "duration": 240,
+  "audioUrl": "/media/songs/song27.mp3",
+  "coverImage": "/media/images/song27.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:32:45.175Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007cab"
+  },
+  "title": "White Tee",
+  "artist": {
+    "$oid": "6ae78668ee1c93c318548f2c"
+  },
+  "genre": "Indie",
+  "duration": 244,
+  "audioUrl": "/media/songs/song28.mp3",
+  "coverImage": "/media/images/song28.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:33:16.814Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007cac"
+  },
+  "title": "Wait For Me",
+  "artist": {
+    "$oid": "6ae78722ee1c93c318548f2d"
+  },
+  "genre": "Pop",
+  "duration": 229,
+  "audioUrl": "/media/songs/song29.mp3",
+  "coverImage": "/media/images/song29.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-29T16:25:01.944Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae234815edf9cb7b9007cad"
+  },
+  "title": "We Don't Talk Anymore",
+  "artist": {
+    "$oid": "6ae78873ee1c93c318548f2e"
+  },
+  "genre": "Pop",
+  "duration": 320,
+  "audioUrl": "/media/songs/song30.mp3",
+  "coverImage": "/media/images/song30.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:42:40.099Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae78f0eee1c93c318548f2f"
+  },
+  "title": "How Long",
+  "artist": {
+    "$oid": "6ae78873ee1c93c318548f2e"
+  },
+  "genre": "Pop",
+  "duration": 320,
+  "audioUrl": "/media/songs/song31.mp3",
+  "coverImage": "/media/images/song31.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:42:40.099Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae78f40ee1c93c318548f30"
+  },
+  "title": "Attention ",
+  "artist": {
+    "$oid": "6ae78873ee1c93c318548f2e"
+  },
+  "genre": "Pop",
+  "duration": 320,
+  "audioUrl": "/media/songs/song32.mp3",
+  "coverImage": "/media/images/song32.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-01T18:42:40.099Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae791dcee1c93c318548f31"
+  },
+  "title": "São Paulo",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song33.mp3",
+  "coverImage": "/media/images/song33.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T17:08:12.800Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7935cee1c93c318548f32"
+  },
+  "title": "Starboy",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song34.mp3",
+  "coverImage": "/media/images/song34.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-07T16:17:59.749Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae793dfee1c93c318548f33"
+  },
+  "title": "Pray For Me",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song35.mp3",
+  "coverImage": "/media/images/song35.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T17:08:23.609Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae793faee1c93c318548f34"
+  },
+  "title": "Popular",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song36.mp3",
+  "coverImage": "/media/images/song36.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T16:52:07.502Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae79409ee1c93c318548f35"
+  },
+  "title": "Timeless",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song37.mp3",
+  "coverImage": "/media/images/song37.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T16:52:09.959Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae79424ee1c93c318548f36"
+  },
+  "title": "After Hours",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song38.mp3",
+  "coverImage": "/media/images/song38.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T16:54:18.990Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7948bee1c93c318548f37"
+  },
+  "title": "Is There Someone Else?",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song39.mp3",
+  "coverImage": "/media/images/song39.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-08T10:01:54.419Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7949bee1c93c318548f38"
+  },
+  "title": "Blinding Lights",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song40.mp3",
+  "coverImage": "/media/images/song40.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-02T17:04:39.332Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c59b30f025fd227352e1"
+  },
+  "title": "Often",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "genre": "Synth-Pop",
+  "duration": 234,
+  "audioUrl": "/media/songs/song41.mp3",
+  "coverImage": "/media/images/song41.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-03T03:48:24.621Z"
+  },
+  "album": {
+    "$oid": "6aec8211a40dc4e3df8d61c5"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c71e30f025fd227352e2"
+  },
+  "title": "TORE UP",
+  "artist": {
+    "$oid": "6ae6effe1044b04db43a6a0c"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song42.mp3",
+  "coverImage": "/media/images/song42.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-07T16:18:13.849Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c85930f025fd227352e3"
+  },
+  "title": "No Pole",
+  "artist": {
+    "$oid": "6ae6effe1044b04db43a6a0c"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song43.mp3",
+  "coverImage": "/media/images/song43.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:54.382Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6af02be79b610ba9e3660d44"
+  },
+  "title": "I Wanna Be Yours",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de95"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song44.mp3",
+  "coverImage": "/media/images/song44.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-08T10:02:40.540Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6af02c589b610ba9e3660d45"
+  },
+  "title": "Consume",
+  "artist": {
+    "$oid": "6ae6150297a52730cf5ffdd3"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song45.mp3",
+  "coverImage": "/media/images/song45.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:54.382Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6af02cb39b610ba9e3660d46"
+  },
+  "title": "Diet Mountain dew",
+  "artist": {
+    "$oid": "6ae3735d7c37c90e71c1de8f"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song46.mp3",
+  "coverImage": "/media/images/song46.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:54.382Z"
+  },
+  "album": null,
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "title": "JUDAS",
+  "artist": {
+    "$oid": "6af02d709b610ba9e3660d47"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song47.mp3",
+  "coverImage": "/media/images/song47.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-08T09:57:17.385Z"
+  },
+  "album": {
+    "$oid": "6aef51e6bf2ef5161997ba24"
+  },
+  "play": 0
+},
+{
+  "_id": {
+    "$oid": "6af02e429b610ba9e3660d49"
+  },
+  "title": "OHMAMI",
+  "artist": {
+    "$oid": "6ae6150297a52730cf5ffdd3"
+  },
+  "genre": "Hip-Hop",
+  "duration": 351,
+  "audioUrl": "/media/songs/song48.mp3",
+  "coverImage": "/media/images/song48.jpg",
+  "plays": 0,
+  "updatedAt": {
+    "$date": "2026-11-08T10:03:59.789Z"
+  },
+  "album": null,
+  "play": 0
+}]

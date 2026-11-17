@@ -1,0 +1,2564 @@
+MUSIC DATABASE — DETAILED REFERENCE
+========================================================================================
+ARTISTS (26 records)
+========================================================================================
+
+[ARTIST #1]
+Record ID: 6ae3735d7c37c90e71c1de8f
+name: Lana Del Rey
+  v: 0
+bio: Lana Del Rey (Elizabeth Woolridge Grant) is an American alternative pop and dream pop singer-songwriter
+createdAt: 2026-10-29T16:25:01.873Z
+followers: 1
+image: /media/images/artist/artist1.jpg
+updatedAt: 2026-10-30T16:12:01.837Z
+------------------------------------------------------------------------
+
+[ARTIST #2]
+Record ID: 6ae3735d7c37c90e71c1de93
+name: The weekend
+  v: 0
+bio: The Weeknd (Abel Makkonen Tesfaye) is a famous Canadian singer, songwriter, and producer known for his alternative R&B and chart-topping hits.
+createdAt: 2026-10-29T16:25:01.907Z
+followers: 1
+image: /media/images/artist/artist2.jpg
+updatedAt: 2026-10-30T16:12:07.732Z
+------------------------------------------------------------------------
+
+[ARTIST #3]
+Record ID: 6ae3735d7c37c90e71c1de95
+name: Arctic Monkeys
+  v: 0
+bio: Music by Arctic Monkeys
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist3.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #4]
+Record ID: 6ae6136297a52730cf5ffdd2
+name: Sia
+  v: 0
+bio: Sia (Sia Kate Isobelle Furler) is an Australian singer, songwriter, and music video director.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist5.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #5]
+Record ID: 6ae6150297a52730cf5ffdd3
+name: Chase Atlantic
+  v: 0
+bio: Chase Atlantic is an Australian alternative R&B and pop-rock band formed in Cairns, Queensland, in 2014.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist6.jpg
+updatedAt: 2026-11-08T08:01:38.981Z
+------------------------------------------------------------------------
+
+[ARTIST #6]
+Record ID: 6ae61b6b97a52730cf5ffdd4
+name: Independent Lemon
+  v: 0
+bio: Independent Lemon is a music artist and producer known for viral remixes, slowed/reverb tracks, and sped-up edits popular on social media platforms like TikTok, YouTube, and Spotify.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist7.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #7]
+Record ID: 6ae61c6197a52730cf5ffdd5
+name: TV Girl
+  v: 0
+bio: TV Girl is an American indie pop band formed in San Diego, California in 2010.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist8.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #8]
+Record ID: 6ae61f3097a52730cf5ffdd7
+name: Dhruv
+  v: 0
+bio: Dhruv Sharma is a British-born, Singapore-raised singer-songwriter of Indian descent best known for his breakout 2019 sleeper hit single "Double Take"
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist9.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #9]
+Record ID: 6ae61ffb97a52730cf5ffdd8
+name: Tame Impala
+  v: 0
+bio: Tame Impala is the psychedelic music and art project of Australian multi-instrumentalist, singer, and songwriter Kevin Parker.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist4.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #10]
+Record ID: 6ae6215c97a52730cf5ffdd9
+name: The Stranglers
+  v: 0
+bio: The Stranglers are an English rock band formed in Guildford, Surrey, in 1974.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist10.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #11]
+Record ID: 6ae6265897a52730cf5ffdda
+name: Dreamsoda
+  v: 0
+bio: dreamsoda is an independent digital music producer, remix artist, and songwriter who gained massive online popularity for producing viral TikTok remixes, sped-up tracks, and stylized mashups.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist11.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #12]
+Record ID: 6ae6ed841044b04db43a6a07
+name: Shiloh Dynasty
+  v: 0
+bio: Shiloh Dynasty (born Ciara Nicole Simms) is an American indie singer-songwriter from Maryland who became a mysterious cult figure in the lo-fi and emo-rap music scenes.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist12.jpg
+updatedAt: 2026-11-03T07:46:05.527Z
+------------------------------------------------------------------------
+
+[ARTIST #13]
+Record ID: 6ae6effe1044b04db43a6a0c
+name: Don Toliver
+  v: 0
+bio: Don Toliver (born Caleb Zackery Toliver on June 12, 1994) is an American rapper, singer, and songwriter from Houston, Texas.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist13.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #14]
+Record ID: 6ae710eb4aa5d74f7332d191
+name: Alan Walker
+  v: 0
+bio: Alan Walker is a world-renowned Norwegian-British DJ and record producer. He shot to international stardom in 2015 with his multi-platinum electronic smash hit "Faded".
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist14.jpg
+updatedAt: 2026-11-01T10:18:36.598Z
+------------------------------------------------------------------------
+
+[ARTIST #15]
+Record ID: 6ae7141b4aa5d74f7332d192
+name: Lil Tecca
+  v: 0
+bio: Lil Tecca is an American rapper, singer-songwriter, and record producer born Tyler-Justin Anthony Sharpe on August 26, 2002, in Queens, New York.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist15.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #16]
+Record ID: 6ae716534aa5d74f7332d193
+name: Melanie Martinez
+  v: 0
+bio: Melanie Martinez is an American singer-songwriter, director, and visual artist who carved out a unique space in alternative pop by blending whimsical, childlike aesthetics with dark, mature storytelling.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist16.jpg
+updatedAt: 2026-11-01T10:59:48.923Z
+------------------------------------------------------------------------
+
+[ARTIST #17]
+Record ID: 6ae718484aa5d74f7332d194
+name: Jay Sean
+  v: 0
+bio: 
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist17.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #18]
+Record ID: 6ae71d8b4aa5d74f7332d195
+name: Mattyeux
+  v: 0
+bio: Matthieu Reynaud, known by his stage name of Mattyeux, is a French singer-songwriter, record producer, and musician. He was the singer and primary producer for the French pop duo Videoclub with Adèle Castillon, from 2018 until 2021.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist18.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #19]
+Record ID: 6ae77a9eee1c93c318548f28
+name: Shawn Mendes
+  v: 0
+bio: Shawn Peter Raul Mendes is a Canadian singer, songwriter, and musician. Mendes gained early recognition for posting popular song covers on the social media platforms YouTube and Vine. He later signed to Island Records and released his self-titled debut EP in 2014.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist19.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #20]
+Record ID: 6ae77beaee1c93c318548f29
+name: Pastel Ghost
+  v: 0
+bio: Pastel Ghost is the stage name of Vivian Moon, an American electronic musician, singer, songwriter, and producer.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist20.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #21]
+Record ID: 6ae77d68ee1c93c318548f2a
+name: Edward Maya
+  v: 0
+bio: Eduard Marian Ilie, better known by his stage name Edward Maya, is a Romanian musician, record producer, DJ and songwriter. He is known for his 2009 smash hit single "Stereo Love".
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist21.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #22]
+Record ID: 6ae77e31ee1c93c318548f2b
+name: Kali Uchis
+  v: 0
+bio: Karly Marina Loaiza, known professionally as Kali Uchis, is an American singer-songwriter. Her accolades include a Grammy Award, an American Music Award, two Billboard Music Awards, and four nominations for a Latin Grammy Award.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist22.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #23]
+Record ID: 6ae78668ee1c93c318548f2c
+name: Summer Walker
+  v: 0
+bio: Summer Walker is an American R&B singer and songwriter known for her raw, soulful vocals and vulnerable lyrics.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 0
+image: /media/images/artist/artist23.jpg
+updatedAt: 2026-10-30T14:12:39.508Z
+------------------------------------------------------------------------
+
+[ARTIST #24]
+Record ID: 6ae78722ee1c93c318548f2d
+name: MXZI
+  v: 0
+bio: MXZI (real name Dominic Balog) is a London-born electronic music producer, artist, and songwriter known for helping drive the mainstream growth of Brazilian phonk and Baile funk.
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist24.jpg
+updatedAt: 2026-11-03T07:46:14.679Z
+------------------------------------------------------------------------
+
+[ARTIST #25]
+Record ID: 6ae78873ee1c93c318548f2e
+name: Charlie Puth
+  v: 0
+bio: Charlie Puth transitioned from his blockbuster debut album Nine Track Mind to a more personal, self-produced artistic direction with his sophomore album, Voicenotes (2018).
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist25.jpg
+updatedAt: 2026-11-01T19:12:30.691Z
+------------------------------------------------------------------------
+
+[ARTIST #26]
+Record ID: 6af02d709b610ba9e3660d47
+name: Lady Gaga
+  v: 0
+bio: 
+createdAt: 2026-10-29T16:25:01.918Z
+followers: 1
+image: /media/images/artist/artist26.jpg
+updatedAt: 2026-11-01T19:12:30.691Z
+------------------------------------------------------------------------
+
+========================================================================================
+ALBUMS (12 records)
+========================================================================================
+
+
+[ALBUM #1]
+Record ID: 6aef51e6bf2ef5161997ba24
+title: Anime Memories
+Artist: None
+description: Emotional anime soundtracks and unforgettable melodies.
+genre: Anime OST
+coverImage: /media/images/albums/album1.jpg
+------------------------------------------------------------------------
+
+[ALBUM #2]
+Record ID: 6aef51e6bf2ef5161997ba25
+title: Psychedelic Dreams
+Artist: Tame Impala [ID: 6ae61ffb97a52730cf5ffdd8]
+description: A psychedelic journeyby Tame Impala.
+genre: Psychedelic Pop
+coverImage: /media/images/albums/album2.jpg
+------------------------------------------------------------------------
+
+[ALBUM #3]
+Record ID: 6aef51e6bf2ef5161997ba26
+title: Softcore
+Artist: None
+description: Dreamy indie music and soft alternative sounds.
+genre: Dream Pop
+coverImage: /media/images/albums/album3.jpg
+------------------------------------------------------------------------
+
+[ALBUM #4]
+Record ID: 6aef51e6bf2ef5161997ba27
+title: Midnight Phonk
+Artist: None
+description: Dark bass, phonk beats and atmospheric rhythms.
+genre: Phonk
+coverImage: /media/images/albums/album4.jpg
+------------------------------------------------------------------------
+
+[ALBUM #5]
+Record ID: 6aef51e6bf2ef5161997ba28
+title: Electro Nights
+Artist: None
+description: Electronic sounds for endless nights.
+genre: Electronic
+coverImage: /media/images/albums/album5.jpg
+------------------------------------------------------------------------
+
+[ALBUM #6]
+Record ID: 6aef51e6bf2ef5161997ba29
+title: Memoriesv Mix
+Artist: None
+description: Late night alternative and atmospheric music.
+genre: Alternative
+coverImage: /media/images/albums/album6.jpg
+------------------------------------------------------------------------
+
+[ALBUM #7]
+Record ID: 6aef51e6bf2ef5161997ba2a
+title: Neon Dreams
+Artist: None
+description: Retro futuristic synthwave and electronic music.
+genre: Synthwave
+coverImage: /media/images/albums/album7.jpg
+------------------------------------------------------------------------
+
+[ALBUM #8]
+Record ID: 6aef51e6bf2ef5161997ba2b
+title: Indie Universe
+Artist: None
+description: Independent artists and beautiful indie melodies.
+genre: Indie
+coverImage: /media/images/albums/album8.jpg
+------------------------------------------------------------------------
+
+[ALBUM #9]
+Record ID: 6aef51e6bf2ef5161997ba2c
+title: Lo-Fi Station
+Artist: None
+description: Relaxing beats for studying and focusing.
+genre: Lo-Fi
+coverImage: /media/images/albums/album9.jpg
+------------------------------------------------------------------------
+
+[ALBUM #10]
+Record ID: 6aef51e6bf2ef5161997ba2d
+title: Dark Academia
+Artist: None
+description: Mysterious classical and atmospheric compositions.
+genre: Classical
+coverImage: /media/images/albums/album10.jpg
+------------------------------------------------------------------------
+
+[ALBUM #11]
+Record ID: 6aef51e6bf2ef5161997ba2e
+title: Eternal Melodies
+Artist: None
+description: Beautiful romantic and nostalgic melodies.
+genre: Pop
+coverImage: /media/images/albums/album11.jpg
+------------------------------------------------------------------------
+
+[ALBUM #12]
+Record ID: 6aef51e6bf2ef5161997ba2f
+title: Lost in the 80s
+Artist: None
+description: Vintage pop, retro beats and nostalgic sounds.
+genre: Retro Pop
+coverImage: /media/images/albums/album12.jpg
+------------------------------------------------------------------------
+
+========================================================================================
+SONGS (48 records)
+========================================================================================
+
+
+[SONG #1]
+Record ID: 6ae234815edf9cb7b9007c90
+title: Music to watch boys to
+Artist: Lana Del Rey [ID: 6ae3735d7c37c90e71c1de8f]
+genre: Pop
+duration: 210
+audioUrl: /media/songs/song1.mp3
+coverImage: /media/images/song1.jpg
+plays: 0
+updatedAt: 2026-11-05T15:55:51.791Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #2]
+Record ID: 6ae234815edf9cb7b9007c91
+title: Moth To A Flame
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song2.mp3
+coverImage: /media/images/song2.jpg
+plays: 0
+updatedAt: 2026-11-07T15:35:52.658Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #3]
+Record ID: 6ae234815edf9cb7b9007c92
+title: Snowman
+Artist: Sia [ID: 6ae6136297a52730cf5ffdd2]
+genre: Pop
+duration: 152
+audioUrl: /media/songs/song3.mp3
+coverImage: /media/images/song3.jpg
+plays: 0
+updatedAt: 2026-11-01T10:00:06.766Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #4]
+Record ID: 6ae234815edf9cb7b9007c93
+title: Into It
+Artist: Chase Atlantic [ID: 6ae6150297a52730cf5ffdd3]
+genre: R&B
+duration: 170
+audioUrl: /media/songs/song4.mp3
+coverImage: /media/images/song4.jpg
+plays: 0
+updatedAt: 2026-11-01T09:47:03.273Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #5]
+Record ID: 6ae234815edf9cb7b9007c94
+title: ﻿The sexy you is out uh... Push the feeling on x Hotel room
+Artist: Independent Lemon [ID: 6ae61b6b97a52730cf5ffdd4]
+genre: Alternative
+duration: 190
+audioUrl: /media/songs/song5.mp3
+coverImage: /media/images/song5.jpg
+plays: 0
+updatedAt: 2026-11-08T09:56:37.250Z
+Album: Anime Memories [ID: 6aef51e6bf2ef5161997ba24]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #6]
+Record ID: 6ae234815edf9cb7b9007c95
+title: Lovers Rock
+Artist: TV Girl [ID: 6ae61c6197a52730cf5ffdd5]
+genre: Indie pop
+duration: 165
+audioUrl: /media/songs/song6.mp3
+coverImage: /media/images/song6.jpg
+plays: 0
+updatedAt: 2026-11-01T09:50:47.064Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #7]
+Record ID: 6ae234815edf9cb7b9007c96
+title: 505
+Artist: Arctic Monkeys [ID: 6ae3735d7c37c90e71c1de95]
+genre: Indie Rock
+duration: 265
+audioUrl: /media/songs/song7.mp3
+coverImage: /media/images/song7.jpg
+plays: 0
+updatedAt: 2026-10-30T16:09:11.240Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #8]
+Record ID: 6ae234815edf9cb7b9007c97
+title: Double Take
+Artist: Dhruv [ID: 6ae61f3097a52730cf5ffdd7]
+genre: R&B
+duration: 216
+audioUrl: /media/songs/song8.mp3
+coverImage: /media/images/song8.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:55.978Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #9]
+Record ID: 6ae234815edf9cb7b9007c98
+title: Dracula
+Artist: Tame Impala [ID: 6ae61ffb97a52730cf5ffdd8]
+genre: electropop
+duration: 253
+audioUrl: /media/songs/song9.mp3
+coverImage: /media/images/song9.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:59.325Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #10]
+Record ID: 6ae234815edf9cb7b9007c99
+title: Golden Brown
+Artist: The Stranglers [ID: 6ae6215c97a52730cf5ffdd9]
+genre: R&B/pop hybrid
+duration: 272
+audioUrl: /media/songs/song10.mp3
+coverImage: /media/images/song10.jpg
+plays: 0
+updatedAt: 2026-10-29T16:25:01.944Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #11]
+Record ID: 6ae234815edf9cb7b9007c9a
+title: Good For You x One Of The Girls
+Artist: Dreamsoda [ID: 6ae6265897a52730cf5ffdda]
+genre: Pop
+duration: 243
+audioUrl: /media/songs/song11.mp3
+coverImage: /media/images/song11.jpg
+plays: 0
+updatedAt: 2026-11-01T10:03:40.965Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #12]
+Record ID: 6ae234815edf9cb7b9007c9b
+title: Let It Happen
+Artist: Tame Impala [ID: 6ae61ffb97a52730cf5ffdd8]
+genre: Electronic
+duration: 259
+audioUrl: /media/songs/song12.mp3
+coverImage: /media/images/song12.jpg
+plays: 0
+updatedAt: 2026-11-01T10:06:10.429Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #13]
+Record ID: 6ae234815edf9cb7b9007c9c
+title: Loser
+Artist: Tame Impala [ID: 6ae61ffb97a52730cf5ffdd8]
+genre: Alternative
+duration: 256
+audioUrl: /media/songs/song13.mp3
+coverImage: /media/images/song13.jpg
+plays: 0
+updatedAt: 2026-11-07T16:54:33.180Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #14]
+Record ID: 6ae234815edf9cb7b9007c9d
+title: Losing Interest
+Artist: Shiloh Dynasty [ID: 6ae6ed841044b04db43a6a07]
+genre: Lo-Fi
+duration: 161
+audioUrl: /media/songs/song14.mp3
+coverImage: /media/images/song14.jpg
+plays: 0
+updatedAt: 2026-10-29T16:25:01.944Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #15]
+Record ID: 6ae234815edf9cb7b9007c9e
+title: No Idea
+Artist: Don Toliver [ID: 6ae6effe1044b04db43a6a0c]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song15.mp3
+coverImage: /media/images/song15.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:54.382Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #16]
+Record ID: 6ae234815edf9cb7b9007c9f
+title: On My Way
+Artist: Alan Walker [ID: 6ae710eb4aa5d74f7332d191]
+genre: Pop
+duration: 111
+audioUrl: /media/songs/song16.mp3
+coverImage: /media/images/song16.jpg
+plays: 0
+updatedAt: 2026-11-01T10:14:37.191Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #17]
+Record ID: 6ae234815edf9cb7b9007ca0
+title: Our Time
+Artist: Lil Tecca [ID: 6ae7141b4aa5d74f7332d192]
+genre: Hip-Hop
+duration: 201
+audioUrl: /media/songs/song17.mp3
+coverImage: /media/images/song17.jpg
+plays: 0
+updatedAt: 2026-11-01T10:17:51.413Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #18]
+Record ID: 6ae234815edf9cb7b9007ca1
+title: Play Date
+Artist: Melanie Martinez [ID: 6ae716534aa5d74f7332d193]
+genre: Indie Pop
+duration: 225
+audioUrl: /media/songs/song18.mp3
+coverImage: /media/images/song18.jpg
+plays: 0
+updatedAt: 2026-11-03T03:49:22.839Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #19]
+Record ID: 6ae234815edf9cb7b9007ca2
+title: Reminder
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: R&B
+duration: 243
+audioUrl: /media/songs/song19.mp3
+coverImage: /media/images/song19.jpg
+plays: 0
+updatedAt: 2026-11-03T03:52:23.503Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #20]
+Record ID: 6ae234815edf9cb7b9007ca3
+title: Ride It
+Artist: Jay Sean [ID: 6ae718484aa5d74f7332d194]
+genre: Dance
+duration: 234
+audioUrl: /media/songs/song20.mp3
+coverImage: /media/images/song20.jpg
+plays: 0
+updatedAt: 2026-11-01T09:56:12.941Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #21]
+Record ID: 6ae234815edf9cb7b9007ca4
+title: Roi
+Artist: Mattyeux [ID: 6ae71d8b4aa5d74f7332d195]
+genre: Synth-pop
+duration: 243
+audioUrl: /media/songs/song21.mp3
+coverImage: /media/images/song21.jpg
+plays: 0
+updatedAt: 2026-11-01T17:25:17.056Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #22]
+Record ID: 6ae234815edf9cb7b9007ca5
+title: Senorita
+Artist: Shawn Mendes [ID: 6ae77a9eee1c93c318548f28]
+genre: Latin Pop
+duration: 228
+audioUrl: /media/songs/song22.mp3
+coverImage: /media/images/song22.jpg
+plays: 0
+updatedAt: 2026-11-01T17:22:14.401Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #23]
+Record ID: 6ae234815edf9cb7b9007ca6
+title: Shadows
+Artist: Pastel Ghost [ID: 6ae77beaee1c93c318548f29]
+genre: Indie
+duration: 215
+audioUrl: /media/songs/song23.mp3
+coverImage: /media/images/song23.jpg
+plays: 0
+updatedAt: 2026-11-01T17:47:29.188Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #24]
+Record ID: 6ae234815edf9cb7b9007ca7
+title: Stereo Love
+Artist: Edward Maya [ID: 6ae77d68ee1c93c318548f2a]
+genre: Dance
+duration: 184
+audioUrl: /media/songs/song24.mp3
+coverImage: /media/images/song24.jpg
+plays: 0
+updatedAt: 2026-11-01T17:55:01.012Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #25]
+Record ID: 6ae234815edf9cb7b9007ca8
+title: Telepatia
+Artist: Kali Uchis [ID: 6ae77e31ee1c93c318548f2b]
+genre: Indie Folk
+duration: 177
+audioUrl: /media/songs/song25.mp3
+coverImage: /media/images/song25.jpg
+plays: 0
+updatedAt: 2026-11-07T16:18:20.988Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #26]
+Record ID: 6ae234815edf9cb7b9007ca9
+title: The Less I Know The Better
+Artist: Tame Impala [ID: 6ae61ffb97a52730cf5ffdd8]
+genre: Latin R&B
+duration: 209
+audioUrl: /media/songs/song26.mp3
+coverImage: /media/images/song26.jpg
+plays: 0
+updatedAt: 2026-11-01T18:04:36.994Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #27]
+Record ID: 6ae234815edf9cb7b9007caa
+title: Alone, Pt II
+Artist: Alan Walker [ID: 6ae710eb4aa5d74f7332d191]
+genre: Alternative Rock
+duration: 240
+audioUrl: /media/songs/song27.mp3
+coverImage: /media/images/song27.jpg
+plays: 0
+updatedAt: 2026-11-01T18:32:45.175Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #28]
+Record ID: 6ae234815edf9cb7b9007cab
+title: White Tee
+Artist: Summer Walker [ID: 6ae78668ee1c93c318548f2c]
+genre: Indie
+duration: 244
+audioUrl: /media/songs/song28.mp3
+coverImage: /media/images/song28.jpg
+plays: 0
+updatedAt: 2026-11-01T18:33:16.814Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #29]
+Record ID: 6ae234815edf9cb7b9007cac
+title: Wait For Me
+Artist: MXZI [ID: 6ae78722ee1c93c318548f2d]
+genre: Pop
+duration: 229
+audioUrl: /media/songs/song29.mp3
+coverImage: /media/images/song29.jpg
+plays: 0
+updatedAt: 2026-10-29T16:25:01.944Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #30]
+Record ID: 6ae234815edf9cb7b9007cad
+title: We Don't Talk Anymore
+Artist: Charlie Puth [ID: 6ae78873ee1c93c318548f2e]
+genre: Pop
+duration: 320
+audioUrl: /media/songs/song30.mp3
+coverImage: /media/images/song30.jpg
+plays: 0
+updatedAt: 2026-11-01T18:42:40.099Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #31]
+Record ID: 6ae78f0eee1c93c318548f2f
+title: How Long
+Artist: Charlie Puth [ID: 6ae78873ee1c93c318548f2e]
+genre: Pop
+duration: 320
+audioUrl: /media/songs/song31.mp3
+coverImage: /media/images/song31.jpg
+plays: 0
+updatedAt: 2026-11-01T18:42:40.099Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #32]
+Record ID: 6ae78f40ee1c93c318548f30
+title: Attention 
+Artist: Charlie Puth [ID: 6ae78873ee1c93c318548f2e]
+genre: Pop
+duration: 320
+audioUrl: /media/songs/song32.mp3
+coverImage: /media/images/song32.jpg
+plays: 0
+updatedAt: 2026-11-01T18:42:40.099Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #33]
+Record ID: 6ae791dcee1c93c318548f31
+title: São Paulo
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song33.mp3
+coverImage: /media/images/song33.jpg
+plays: 0
+updatedAt: 2026-11-02T17:08:12.800Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #34]
+Record ID: 6ae7935cee1c93c318548f32
+title: Starboy
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song34.mp3
+coverImage: /media/images/song34.jpg
+plays: 0
+updatedAt: 2026-11-07T16:17:59.749Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #35]
+Record ID: 6ae793dfee1c93c318548f33
+title: Pray For Me
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song35.mp3
+coverImage: /media/images/song35.jpg
+plays: 0
+updatedAt: 2026-11-02T17:08:23.609Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #36]
+Record ID: 6ae793faee1c93c318548f34
+title: Popular
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song36.mp3
+coverImage: /media/images/song36.jpg
+plays: 0
+updatedAt: 2026-11-02T16:52:07.502Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #37]
+Record ID: 6ae79409ee1c93c318548f35
+title: Timeless
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song37.mp3
+coverImage: /media/images/song37.jpg
+plays: 0
+updatedAt: 2026-11-02T16:52:09.959Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #38]
+Record ID: 6ae79424ee1c93c318548f36
+title: After Hours
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song38.mp3
+coverImage: /media/images/song38.jpg
+plays: 0
+updatedAt: 2026-11-02T16:54:18.990Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #39]
+Record ID: 6ae7948bee1c93c318548f37
+title: Is There Someone Else?
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song39.mp3
+coverImage: /media/images/song39.jpg
+plays: 0
+updatedAt: 2026-11-08T10:01:54.419Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #40]
+Record ID: 6ae7949bee1c93c318548f38
+title: Blinding Lights
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song40.mp3
+coverImage: /media/images/song40.jpg
+plays: 0
+updatedAt: 2026-11-02T17:04:39.332Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #41]
+Record ID: 6ae8c59b30f025fd227352e1
+title: Often
+Artist: The weekend [ID: 6ae3735d7c37c90e71c1de93]
+genre: Synth-Pop
+duration: 234
+audioUrl: /media/songs/song41.mp3
+coverImage: /media/images/song41.jpg
+plays: 0
+updatedAt: 2026-11-03T03:48:24.621Z
+Album: Unknown [ID: 6aec8211a40dc4e3df8d61c5]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #42]
+Record ID: 6ae8c71e30f025fd227352e2
+title: TORE UP
+Artist: Don Toliver [ID: 6ae6effe1044b04db43a6a0c]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song42.mp3
+coverImage: /media/images/song42.jpg
+plays: 0
+updatedAt: 2026-11-07T16:18:13.849Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #43]
+Record ID: 6ae8c85930f025fd227352e3
+title: No Pole
+Artist: Don Toliver [ID: 6ae6effe1044b04db43a6a0c]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song43.mp3
+coverImage: /media/images/song43.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:54.382Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #44]
+Record ID: 6af02be79b610ba9e3660d44
+title: I Wanna Be Yours
+Artist: Arctic Monkeys [ID: 6ae3735d7c37c90e71c1de95]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song44.mp3
+coverImage: /media/images/song44.jpg
+plays: 0
+updatedAt: 2026-11-08T10:02:40.540Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #45]
+Record ID: 6af02c589b610ba9e3660d45
+title: Consume
+Artist: Chase Atlantic [ID: 6ae6150297a52730cf5ffdd3]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song45.mp3
+coverImage: /media/images/song45.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:54.382Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #46]
+Record ID: 6af02cb39b610ba9e3660d46
+title: Diet Mountain dew
+Artist: Lana Del Rey [ID: 6ae3735d7c37c90e71c1de8f]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song46.mp3
+coverImage: /media/images/song46.jpg
+plays: 0
+updatedAt: 2026-10-30T17:12:54.382Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+[SONG #47]
+Record ID: 6af02dcf9b610ba9e3660d48
+title: JUDAS
+Artist: Lady Gaga [ID: 6af02d709b610ba9e3660d47]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song47.mp3
+coverImage: /media/images/song47.jpg
+plays: 0
+updatedAt: 2026-11-08T09:57:17.385Z
+Album: Anime Memories [ID: 6aef51e6bf2ef5161997ba24]
+play: 0
+------------------------------------------------------------------------
+
+[SONG #48]
+Record ID: 6af02e429b610ba9e3660d49
+title: OHMAMI
+Artist: Chase Atlantic [ID: 6ae6150297a52730cf5ffdd3]
+genre: Hip-Hop
+duration: 351
+audioUrl: /media/songs/song48.mp3
+coverImage: /media/images/song48.jpg
+plays: 0
+updatedAt: 2026-11-08T10:03:59.789Z
+Album: None
+play: 0
+------------------------------------------------------------------------
+
+========================================================================================
+USERS (3 records)
+========================================================================================
+
+
+[USER #1]
+Record ID: 6ae37a5f88e804befe88dfa4
+username: MEET
+profileImage: 
+Liked Songs:
+  Snowman [ID: 6ae234815edf9cb7b9007c92]
+  No Idea [ID: 6ae234815edf9cb7b9007c9e]
+  505 [ID: 6ae234815edf9cb7b9007c96]
+  ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+  Shadows [ID: 6ae234815edf9cb7b9007ca6]
+Followed Artists:
+  Arctic Monkeys [ID: 6ae3735d7c37c90e71c1de95]
+  Unknown [ID: 6ae3735d7c37c90e71c1de99]
+  Lana Del Rey [ID: 6ae3735d7c37c90e71c1de8f]
+  Unknown [ID: 6ae3735d7c37c90e71c1de97]
+  The weekend [ID: 6ae3735d7c37c90e71c1de93]
+  Alan Walker [ID: 6ae710eb4aa5d74f7332d191]
+  Melanie Martinez [ID: 6ae716534aa5d74f7332d193]
+  Charlie Puth [ID: 6ae78873ee1c93c318548f2e]
+  Shiloh Dynasty [ID: 6ae6ed841044b04db43a6a07]
+  MXZI [ID: 6ae78722ee1c93c318548f2d]
+  Chase Atlantic [ID: 6ae6150297a52730cf5ffdd3]
+createdAt: 2026-10-29T16:54:55.569Z
+updatedAt: 2026-11-08T08:01:38.959Z
+  v: 18
+------------------------------------------------------------------------
+
+[USER #2]
+Record ID: 6aee21cf830d985de6022db7
+username: HEET
+profileImage: 
+Liked Songs:
+  None
+Followed Artists:
+  None
+createdAt: 2026-11-06T18:51:59.054Z
+updatedAt: 2026-11-06T18:51:59.054Z
+  v: 0
+------------------------------------------------------------------------
+
+[USER #3]
+Record ID: 6aee2206830d985de6022db8
+username: ZARA
+profileImage: 
+Liked Songs:
+  JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+Followed Artists:
+  None
+createdAt: 2026-11-06T18:52:54.816Z
+updatedAt: 2026-11-08T09:43:25.048Z
+  v: 1
+------------------------------------------------------------------------
+
+========================================================================================
+PLAYLISTS (4 records)
+========================================================================================
+
+
+[PLAYLIST #1]
+Record ID: 6ae4870360ffb65242473491
+name: vibe
+description: 
+Owner: Unknown [ID: 6ae48542d7b867a0dc8b0d99]
+coverImage: 
+Songs:
+  Lovers Rock [ID: 6ae234815edf9cb7b9007c95]
+isPublic: No
+createdAt: 2026-10-30T12:01:07.832Z
+updatedAt: 2026-10-30T12:01:27.044Z
+  v: 1
+------------------------------------------------------------------------
+
+[PLAYLIST #2]
+Record ID: 6ae4a5a915d72ce09f5d7e77
+name: HHH
+description: 
+Owner: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+coverImage: 
+Songs:
+  ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+isPublic: No
+createdAt: 2026-10-30T14:11:53.439Z
+updatedAt: 2026-10-30T14:12:13.186Z
+  v: 1
+------------------------------------------------------------------------
+
+[PLAYLIST #3]
+Record ID: 6ae993b39f0e540e14420047
+name: VIBE
+description: 
+Owner: MEET [ID: 6ae37a5f88e804befe88dfa4]
+coverImage: 
+Songs:
+  None
+isPublic: No
+createdAt: 2026-11-03T07:56:35.573Z
+updatedAt: 2026-11-03T07:56:35.573Z
+  v: 0
+------------------------------------------------------------------------
+
+[PLAYLIST #4]
+Record ID: 6af0441131f4375026f32a86
+name: VIBES
+description: 
+Owner: ZARA [ID: 6aee2206830d985de6022db8]
+coverImage: 
+Songs:
+  JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+isPublic: No
+createdAt: 2026-11-08T09:42:41.434Z
+updatedAt: 2026-11-08T09:43:55.665Z
+  v: 1
+------------------------------------------------------------------------
+
+========================================================================================
+LISTENING HISTORY (136 records)
+========================================================================================
+
+
+[LISTENING HISTORY #1]
+Record ID: 6ae37a9d88e804befe88dfa5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Unknown [ID: 6ae3735d7c37c90e71c1dea0]
+playedAt: 2026-10-29T16:55:57.496Z
+createdAt: 2026-10-29T16:55:57.496Z
+updatedAt: 2026-10-29T16:55:57.496Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #2]
+Record ID: 6ae37b0188e804befe88dfa6
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Unknown [ID: 6ae3735d7c37c90e71c1dea0]
+playedAt: 2026-10-29T16:57:37.927Z
+createdAt: 2026-10-29T16:57:37.927Z
+updatedAt: 2026-10-29T16:57:37.927Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #3]
+Record ID: 6ae37b0388e804befe88dfa7
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Unknown [ID: 6ae3735d7c37c90e71c1de9e]
+playedAt: 2026-10-29T16:57:39.689Z
+createdAt: 2026-10-29T16:57:39.689Z
+updatedAt: 2026-10-29T16:57:39.689Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #4]
+Record ID: 6ae48545d7b867a0dc8b0d9a
+User: Unknown [ID: 6ae48542d7b867a0dc8b0d99]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T11:53:41.457Z
+createdAt: 2026-10-30T11:53:41.457Z
+updatedAt: 2026-10-30T11:53:41.457Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #5]
+Record ID: 6ae485fe60ffb6524247348f
+User: Unknown [ID: 6ae48542d7b867a0dc8b0d99]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T11:56:46.816Z
+createdAt: 2026-10-30T11:56:46.823Z
+updatedAt: 2026-10-30T11:56:46.823Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #6]
+Record ID: 6ae4860660ffb65242473490
+User: Unknown [ID: 6ae48542d7b867a0dc8b0d99]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-10-30T11:56:54.547Z
+createdAt: 2026-10-30T11:56:54.548Z
+updatedAt: 2026-10-30T11:56:54.548Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #7]
+Record ID: 6ae4a33c15d72ce09f5d7e6e
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T14:01:32.198Z
+createdAt: 2026-10-30T14:01:32.210Z
+updatedAt: 2026-10-30T14:01:32.210Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #8]
+Record ID: 6ae4a49b15d72ce09f5d7e6f
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Let It Happen [ID: 6ae234815edf9cb7b9007c9b]
+playedAt: 2026-10-30T14:07:23.393Z
+createdAt: 2026-10-30T14:07:23.393Z
+updatedAt: 2026-10-30T14:07:23.393Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #9]
+Record ID: 6ae4a54515d72ce09f5d7e71
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T14:10:13.702Z
+createdAt: 2026-10-30T14:10:13.703Z
+updatedAt: 2026-10-30T14:10:13.703Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #10]
+Record ID: 6ae4a54f15d72ce09f5d7e72
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-10-30T14:10:23.158Z
+createdAt: 2026-10-30T14:10:23.158Z
+updatedAt: 2026-10-30T14:10:23.158Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #11]
+Record ID: 6ae4a55115d72ce09f5d7e73
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: Snowman [ID: 6ae234815edf9cb7b9007c92]
+playedAt: 2026-10-30T14:10:25.923Z
+createdAt: 2026-10-30T14:10:25.923Z
+updatedAt: 2026-10-30T14:10:25.923Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #12]
+Record ID: 6ae4a55315d72ce09f5d7e74
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: Into It [ID: 6ae234815edf9cb7b9007c93]
+playedAt: 2026-10-30T14:10:27.024Z
+createdAt: 2026-10-30T14:10:27.024Z
+updatedAt: 2026-10-30T14:10:27.024Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #13]
+Record ID: 6ae4a55b15d72ce09f5d7e75
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-10-30T14:10:35.758Z
+createdAt: 2026-10-30T14:10:35.758Z
+updatedAt: 2026-10-30T14:10:35.758Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #14]
+Record ID: 6ae4a57b15d72ce09f5d7e76
+User: Unknown [ID: 6ae4a54015d72ce09f5d7e70]
+Song: No Idea [ID: 6ae234815edf9cb7b9007c9e]
+playedAt: 2026-10-30T14:11:07.648Z
+createdAt: 2026-10-30T14:11:07.649Z
+updatedAt: 2026-10-30T14:11:07.649Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #15]
+Record ID: 6ae4bf113b03f2361dfd9e28
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-10-30T16:00:17.834Z
+createdAt: 2026-10-30T16:00:17.854Z
+updatedAt: 2026-10-30T16:00:17.854Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #16]
+Record ID: 6ae4bf133b03f2361dfd9e29
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Snowman [ID: 6ae234815edf9cb7b9007c92]
+playedAt: 2026-10-30T16:00:19.360Z
+createdAt: 2026-10-30T16:00:19.360Z
+updatedAt: 2026-10-30T16:00:19.360Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #17]
+Record ID: 6ae4bf4b3b03f2361dfd9e2a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Into It [ID: 6ae234815edf9cb7b9007c93]
+playedAt: 2026-10-30T16:01:15.989Z
+createdAt: 2026-10-30T16:01:15.990Z
+updatedAt: 2026-10-30T16:01:15.990Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #18]
+Record ID: 6ae4bfc785eb94705b631a2b
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-10-30T16:03:19.022Z
+createdAt: 2026-10-30T16:03:19.031Z
+updatedAt: 2026-10-30T16:03:19.031Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #19]
+Record ID: 6ae4bfc885eb94705b631a2c
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Lovers Rock [ID: 6ae234815edf9cb7b9007c95]
+playedAt: 2026-10-30T16:03:20.119Z
+createdAt: 2026-10-30T16:03:20.119Z
+updatedAt: 2026-10-30T16:03:20.119Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #20]
+Record ID: 6ae4bfcf85eb94705b631a2d
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: 505 [ID: 6ae234815edf9cb7b9007c96]
+playedAt: 2026-10-30T16:03:27.112Z
+createdAt: 2026-10-30T16:03:27.113Z
+updatedAt: 2026-10-30T16:03:27.113Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #21]
+Record ID: 6ae4c1275a0ab34a41577eb4
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: 505 [ID: 6ae234815edf9cb7b9007c96]
+playedAt: 2026-10-30T16:09:11.254Z
+createdAt: 2026-10-30T16:09:11.263Z
+updatedAt: 2026-10-30T16:09:11.263Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #22]
+Record ID: 6ae4c12d5a0ab34a41577eb5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T16:09:17.326Z
+createdAt: 2026-10-30T16:09:17.326Z
+updatedAt: 2026-10-30T16:09:17.326Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #23]
+Record ID: 6ae4d00aeb242e829b79aafd
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-10-30T17:12:42.704Z
+createdAt: 2026-10-30T17:12:42.711Z
+updatedAt: 2026-10-30T17:12:42.711Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #24]
+Record ID: 6ae4d015eb242e829b79aafe
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-10-30T17:12:53.249Z
+createdAt: 2026-10-30T17:12:53.250Z
+updatedAt: 2026-10-30T17:12:53.250Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #25]
+Record ID: 6ae4d016eb242e829b79aaff
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: No Idea [ID: 6ae234815edf9cb7b9007c9e]
+playedAt: 2026-10-30T17:12:54.385Z
+createdAt: 2026-10-30T17:12:54.386Z
+updatedAt: 2026-10-30T17:12:54.386Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #26]
+Record ID: 6ae4d017eb242e829b79ab00
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Loser [ID: 6ae234815edf9cb7b9007c9c]
+playedAt: 2026-10-30T17:12:55.280Z
+createdAt: 2026-10-30T17:12:55.280Z
+updatedAt: 2026-10-30T17:12:55.280Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #27]
+Record ID: 6ae4d017eb242e829b79ab01
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Double Take [ID: 6ae234815edf9cb7b9007c97]
+playedAt: 2026-10-30T17:12:55.985Z
+createdAt: 2026-10-30T17:12:55.985Z
+updatedAt: 2026-10-30T17:12:55.985Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #28]
+Record ID: 6ae4d01beb242e829b79ab02
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Dracula [ID: 6ae234815edf9cb7b9007c98]
+playedAt: 2026-10-30T17:12:59.329Z
+createdAt: 2026-10-30T17:12:59.329Z
+updatedAt: 2026-10-30T17:12:59.329Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #29]
+Record ID: 6ae70a97fd99f7f6f1fe60b4
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Into It [ID: 6ae234815edf9cb7b9007c93]
+playedAt: 2026-11-01T09:47:03.298Z
+createdAt: 2026-11-01T09:47:03.304Z
+updatedAt: 2026-11-01T09:47:03.304Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #30]
+Record ID: 6ae70a99fd99f7f6f1fe60b5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-11-01T09:47:05.719Z
+createdAt: 2026-11-01T09:47:05.720Z
+updatedAt: 2026-11-01T09:47:05.720Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #31]
+Record ID: 6ae70b77fd99f7f6f1fe60b6
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Lovers Rock [ID: 6ae234815edf9cb7b9007c95]
+playedAt: 2026-11-01T09:50:47.069Z
+createdAt: 2026-11-01T09:50:47.070Z
+updatedAt: 2026-11-01T09:50:47.070Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #32]
+Record ID: 6ae70c4dfd99f7f6f1fe60b7
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T09:54:21.170Z
+createdAt: 2026-11-01T09:54:21.171Z
+updatedAt: 2026-11-01T09:54:21.171Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #33]
+Record ID: 6ae70cb5fd99f7f6f1fe60b8
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-01T09:56:05.453Z
+createdAt: 2026-11-01T09:56:05.459Z
+updatedAt: 2026-11-01T09:56:05.459Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #34]
+Record ID: 6ae70cb6fd99f7f6f1fe60b9
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Our Time [ID: 6ae234815edf9cb7b9007ca0]
+playedAt: 2026-11-01T09:56:06.984Z
+createdAt: 2026-11-01T09:56:06.985Z
+updatedAt: 2026-11-01T09:56:06.985Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #35]
+Record ID: 6ae70cbcfd99f7f6f1fe60ba
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-01T09:56:12.087Z
+createdAt: 2026-11-01T09:56:12.088Z
+updatedAt: 2026-11-01T09:56:12.088Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #36]
+Record ID: 6ae70cbcfd99f7f6f1fe60bb
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Reminder [ID: 6ae234815edf9cb7b9007ca2]
+playedAt: 2026-11-01T09:56:12.301Z
+createdAt: 2026-11-01T09:56:12.301Z
+updatedAt: 2026-11-01T09:56:12.301Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #37]
+Record ID: 6ae70cbcfd99f7f6f1fe60bc
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Ride It [ID: 6ae234815edf9cb7b9007ca3]
+playedAt: 2026-11-01T09:56:12.944Z
+createdAt: 2026-11-01T09:56:12.945Z
+updatedAt: 2026-11-01T09:56:12.945Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #38]
+Record ID: 6ae70cbdfd99f7f6f1fe60bd
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T09:56:13.435Z
+createdAt: 2026-11-01T09:56:13.435Z
+updatedAt: 2026-11-01T09:56:13.435Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #39]
+Record ID: 6ae70cbdfd99f7f6f1fe60be
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Senorita [ID: 6ae234815edf9cb7b9007ca5]
+playedAt: 2026-11-01T09:56:13.932Z
+createdAt: 2026-11-01T09:56:13.932Z
+updatedAt: 2026-11-01T09:56:13.932Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #40]
+Record ID: 6ae70cbefd99f7f6f1fe60bf
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Shadows [ID: 6ae234815edf9cb7b9007ca6]
+playedAt: 2026-11-01T09:56:14.585Z
+createdAt: 2026-11-01T09:56:14.585Z
+updatedAt: 2026-11-01T09:56:14.585Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #41]
+Record ID: 6ae70cbffd99f7f6f1fe60c0
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Stereo Love [ID: 6ae234815edf9cb7b9007ca7]
+playedAt: 2026-11-01T09:56:15.312Z
+createdAt: 2026-11-01T09:56:15.312Z
+updatedAt: 2026-11-01T09:56:15.312Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #42]
+Record ID: 6ae70cbffd99f7f6f1fe60c1
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-01T09:56:15.947Z
+createdAt: 2026-11-01T09:56:15.947Z
+updatedAt: 2026-11-01T09:56:15.947Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #43]
+Record ID: 6ae70cc0fd99f7f6f1fe60c2
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T09:56:16.780Z
+createdAt: 2026-11-01T09:56:16.780Z
+updatedAt: 2026-11-01T09:56:16.780Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #44]
+Record ID: 6ae70d0b934eb9c9be6c73da
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T09:57:31.312Z
+createdAt: 2026-11-01T09:57:31.319Z
+updatedAt: 2026-11-01T09:57:31.319Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #45]
+Record ID: 6ae70d9b934eb9c9be6c73db
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Alone, Pt II [ID: 6ae234815edf9cb7b9007caa]
+playedAt: 2026-11-01T09:59:55.218Z
+createdAt: 2026-11-01T09:59:55.218Z
+updatedAt: 2026-11-01T09:59:55.218Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #46]
+Record ID: 6ae70da0934eb9c9be6c73dc
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-01T10:00:00.660Z
+createdAt: 2026-11-01T10:00:00.660Z
+updatedAt: 2026-11-01T10:00:00.660Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #47]
+Record ID: 6ae70da2934eb9c9be6c73dd
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-11-01T10:00:02.583Z
+createdAt: 2026-11-01T10:00:02.584Z
+updatedAt: 2026-11-01T10:00:02.584Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #48]
+Record ID: 6ae70da5934eb9c9be6c73de
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-01T10:00:05.834Z
+createdAt: 2026-11-01T10:00:05.835Z
+updatedAt: 2026-11-01T10:00:05.835Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #49]
+Record ID: 6ae70da6934eb9c9be6c73df
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Snowman [ID: 6ae234815edf9cb7b9007c92]
+playedAt: 2026-11-01T10:00:06.778Z
+createdAt: 2026-11-01T10:00:06.779Z
+updatedAt: 2026-11-01T10:00:06.779Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #50]
+Record ID: 6ae70db4934eb9c9be6c73e0
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Alone, Pt II [ID: 6ae234815edf9cb7b9007caa]
+playedAt: 2026-11-01T10:00:20.539Z
+createdAt: 2026-11-01T10:00:20.539Z
+updatedAt: 2026-11-01T10:00:20.539Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #51]
+Record ID: 6ae70db7934eb9c9be6c73e1
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: White Tee [ID: 6ae234815edf9cb7b9007cab]
+playedAt: 2026-11-01T10:00:23.206Z
+createdAt: 2026-11-01T10:00:23.206Z
+updatedAt: 2026-11-01T10:00:23.206Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #52]
+Record ID: 6ae70db9934eb9c9be6c73e2
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T10:00:25.025Z
+createdAt: 2026-11-01T10:00:25.025Z
+updatedAt: 2026-11-01T10:00:25.025Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #53]
+Record ID: 6ae70dba934eb9c9be6c73e3
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-01T10:00:26.762Z
+createdAt: 2026-11-01T10:00:26.762Z
+updatedAt: 2026-11-01T10:00:26.762Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #54]
+Record ID: 6ae70dbc934eb9c9be6c73e4
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Our Time [ID: 6ae234815edf9cb7b9007ca0]
+playedAt: 2026-11-01T10:00:28.979Z
+createdAt: 2026-11-01T10:00:28.979Z
+updatedAt: 2026-11-01T10:00:28.979Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #55]
+Record ID: 6ae70dbf934eb9c9be6c73e5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-01T10:00:31.614Z
+createdAt: 2026-11-01T10:00:31.614Z
+updatedAt: 2026-11-01T10:00:31.614Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #56]
+Record ID: 6ae70dc1934eb9c9be6c73e6
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Our Time [ID: 6ae234815edf9cb7b9007ca0]
+playedAt: 2026-11-01T10:00:33.056Z
+createdAt: 2026-11-01T10:00:33.056Z
+updatedAt: 2026-11-01T10:00:33.056Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #57]
+Record ID: 6ae70dc7934eb9c9be6c73e7
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Good For You x One Of The Girls [ID: 6ae234815edf9cb7b9007c9a]
+playedAt: 2026-11-01T10:00:39.289Z
+createdAt: 2026-11-01T10:00:39.289Z
+updatedAt: 2026-11-01T10:00:39.289Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #58]
+Record ID: 6ae70e7c934eb9c9be6c73e8
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Good For You x One Of The Girls [ID: 6ae234815edf9cb7b9007c9a]
+playedAt: 2026-11-01T10:03:40.973Z
+createdAt: 2026-11-01T10:03:40.973Z
+updatedAt: 2026-11-01T10:03:40.973Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #59]
+Record ID: 6ae70f12934eb9c9be6c73e9
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Let It Happen [ID: 6ae234815edf9cb7b9007c9b]
+playedAt: 2026-11-01T10:06:10.431Z
+createdAt: 2026-11-01T10:06:10.431Z
+updatedAt: 2026-11-01T10:06:10.431Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #60]
+Record ID: 6ae7102d934eb9c9be6c73ea
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: On My Way [ID: 6ae234815edf9cb7b9007c9f]
+playedAt: 2026-11-01T10:10:53.095Z
+createdAt: 2026-11-01T10:10:53.096Z
+updatedAt: 2026-11-01T10:10:53.096Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #61]
+Record ID: 6ae710ef934eb9c9be6c73eb
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Our Time [ID: 6ae234815edf9cb7b9007ca0]
+playedAt: 2026-11-01T10:14:07.375Z
+createdAt: 2026-11-01T10:14:07.375Z
+updatedAt: 2026-11-01T10:14:07.375Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #62]
+Record ID: 6ae7110d934eb9c9be6c73ec
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: On My Way [ID: 6ae234815edf9cb7b9007c9f]
+playedAt: 2026-11-01T10:14:37.194Z
+createdAt: 2026-11-01T10:14:37.194Z
+updatedAt: 2026-11-01T10:14:37.194Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #63]
+Record ID: 6ae711cf934eb9c9be6c73ed
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Our Time [ID: 6ae234815edf9cb7b9007ca0]
+playedAt: 2026-11-01T10:17:51.416Z
+createdAt: 2026-11-01T10:17:51.416Z
+updatedAt: 2026-11-01T10:17:51.416Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #64]
+Record ID: 6ae71232934eb9c9be6c73ee
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-01T10:19:30.076Z
+createdAt: 2026-11-01T10:19:30.077Z
+updatedAt: 2026-11-01T10:19:30.077Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #65]
+Record ID: 6ae712e6934eb9c9be6c73ef
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Reminder [ID: 6ae234815edf9cb7b9007ca2]
+playedAt: 2026-11-01T10:22:30.197Z
+createdAt: 2026-11-01T10:22:30.197Z
+updatedAt: 2026-11-01T10:22:30.197Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #66]
+Record ID: 6ae714f1934eb9c9be6c73f0
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-01T10:31:13.007Z
+createdAt: 2026-11-01T10:31:13.007Z
+updatedAt: 2026-11-01T10:31:13.007Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #67]
+Record ID: 6ae715a5934eb9c9be6c73f1
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Reminder [ID: 6ae234815edf9cb7b9007ca2]
+playedAt: 2026-11-01T10:34:13.127Z
+createdAt: 2026-11-01T10:34:13.127Z
+updatedAt: 2026-11-01T10:34:13.127Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #68]
+Record ID: 6ae71b6ee77e3a1b1494fc71
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T10:58:54.703Z
+createdAt: 2026-11-01T10:58:54.707Z
+updatedAt: 2026-11-01T10:58:54.707Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #69]
+Record ID: 6ae71c29e77e3a1b1494fc72
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Senorita [ID: 6ae234815edf9cb7b9007ca5]
+playedAt: 2026-11-01T11:02:01.180Z
+createdAt: 2026-11-01T11:02:01.181Z
+updatedAt: 2026-11-01T11:02:01.181Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #70]
+Record ID: 6ae71c35e77e3a1b1494fc73
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T11:02:13.667Z
+createdAt: 2026-11-01T11:02:13.668Z
+updatedAt: 2026-11-01T11:02:13.668Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #71]
+Record ID: 6ae71ce9e77e3a1b1494fc74
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Senorita [ID: 6ae234815edf9cb7b9007ca5]
+playedAt: 2026-11-01T11:05:13.950Z
+createdAt: 2026-11-01T11:05:13.951Z
+updatedAt: 2026-11-01T11:05:13.951Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #72]
+Record ID: 6ae7748bc39b907c78e113c1
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T17:19:07.808Z
+createdAt: 2026-11-01T17:19:07.817Z
+updatedAt: 2026-11-01T17:19:07.817Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #73]
+Record ID: 6ae774e3c39b907c78e113c2
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T17:20:35.479Z
+createdAt: 2026-11-01T17:20:35.480Z
+updatedAt: 2026-11-01T17:20:35.480Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #74]
+Record ID: 6ae77546c39b907c78e113c3
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Senorita [ID: 6ae234815edf9cb7b9007ca5]
+playedAt: 2026-11-01T17:22:14.405Z
+createdAt: 2026-11-01T17:22:14.406Z
+updatedAt: 2026-11-01T17:22:14.406Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #75]
+Record ID: 6ae775fdc39b907c78e113c4
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Roi [ID: 6ae234815edf9cb7b9007ca4]
+playedAt: 2026-11-01T17:25:17.059Z
+createdAt: 2026-11-01T17:25:17.060Z
+updatedAt: 2026-11-01T17:25:17.060Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #76]
+Record ID: 6ae77b31c39b907c78e113c5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Shadows [ID: 6ae234815edf9cb7b9007ca6]
+playedAt: 2026-11-01T17:47:29.191Z
+createdAt: 2026-11-01T17:47:29.191Z
+updatedAt: 2026-11-01T17:47:29.191Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #77]
+Record ID: 6ae77cf5e6e86edff67c8600
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Stereo Love [ID: 6ae234815edf9cb7b9007ca7]
+playedAt: 2026-11-01T17:55:01.025Z
+createdAt: 2026-11-01T17:55:01.029Z
+updatedAt: 2026-11-01T17:55:01.029Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #78]
+Record ID: 6ae77d9be6e86edff67c8601
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T17:57:47.553Z
+createdAt: 2026-11-01T17:57:47.553Z
+updatedAt: 2026-11-01T17:57:47.553Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #79]
+Record ID: 6ae77db8e6e86edff67c8602
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-01T17:58:16.503Z
+createdAt: 2026-11-01T17:58:16.503Z
+updatedAt: 2026-11-01T17:58:16.503Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #80]
+Record ID: 6ae77ddde6e86edff67c8603
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-01T17:58:53.166Z
+createdAt: 2026-11-01T17:58:53.166Z
+updatedAt: 2026-11-01T17:58:53.166Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #81]
+Record ID: 6ae77f35cf7e1662ec9613ca
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: The Less I Know The Better [ID: 6ae234815edf9cb7b9007ca9]
+playedAt: 2026-11-01T18:04:37.044Z
+createdAt: 2026-11-01T18:04:37.052Z
+updatedAt: 2026-11-01T18:04:37.052Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #82]
+Record ID: 6ae782dbcf7e1662ec9613cb
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Alone, Pt II [ID: 6ae234815edf9cb7b9007caa]
+playedAt: 2026-11-01T18:20:11.331Z
+createdAt: 2026-11-01T18:20:11.332Z
+updatedAt: 2026-11-01T18:20:11.332Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #83]
+Record ID: 6ae785cda45b026df3c36d19
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Alone, Pt II [ID: 6ae234815edf9cb7b9007caa]
+playedAt: 2026-11-01T18:32:45.190Z
+createdAt: 2026-11-01T18:32:45.195Z
+updatedAt: 2026-11-01T18:32:45.195Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #84]
+Record ID: 6ae785eca45b026df3c36d1a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: White Tee [ID: 6ae234815edf9cb7b9007cab]
+playedAt: 2026-11-01T18:33:16.818Z
+createdAt: 2026-11-01T18:33:16.818Z
+updatedAt: 2026-11-01T18:33:16.818Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #85]
+Record ID: 6ae78820a45b026df3c36d1b
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: We Don't Talk Anymore [ID: 6ae234815edf9cb7b9007cad]
+playedAt: 2026-11-01T18:42:40.101Z
+createdAt: 2026-11-01T18:42:40.102Z
+updatedAt: 2026-11-01T18:42:40.102Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #86]
+Record ID: 6ae8a1f46bac736e9c9d5901
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: São Paulo [ID: 6ae791dcee1c93c318548f31]
+playedAt: 2026-11-02T14:45:08.484Z
+createdAt: 2026-11-02T14:45:08.489Z
+updatedAt: 2026-11-02T14:45:08.489Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #87]
+Record ID: 6ae8a28c6bac736e9c9d5902
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Starboy [ID: 6ae7935cee1c93c318548f32]
+playedAt: 2026-11-02T14:47:40.843Z
+createdAt: 2026-11-02T14:47:40.853Z
+updatedAt: 2026-11-02T14:47:40.853Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #88]
+Record ID: 6ae8a36d6bac736e9c9d5903
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: São Paulo [ID: 6ae791dcee1c93c318548f31]
+playedAt: 2026-11-02T14:51:25.936Z
+createdAt: 2026-11-02T14:51:25.936Z
+updatedAt: 2026-11-02T14:51:25.936Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #89]
+Record ID: 6ae8a4036bac736e9c9d5904
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Starboy [ID: 6ae7935cee1c93c318548f32]
+playedAt: 2026-11-02T14:53:55.009Z
+createdAt: 2026-11-02T14:53:55.009Z
+updatedAt: 2026-11-02T14:53:55.009Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #90]
+Record ID: 6ae8a4e96bac736e9c9d5905
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Pray For Me [ID: 6ae793dfee1c93c318548f33]
+playedAt: 2026-11-02T14:57:45.706Z
+createdAt: 2026-11-02T14:57:45.707Z
+updatedAt: 2026-11-02T14:57:45.707Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #91]
+Record ID: 6ae8b2fa8cc7d64cf51bb6e8
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-02T15:57:46.240Z
+createdAt: 2026-11-02T15:57:46.248Z
+updatedAt: 2026-11-02T15:57:46.248Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #92]
+Record ID: 6ae8b3068cc7d64cf51bb6e9
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Starboy [ID: 6ae7935cee1c93c318548f32]
+playedAt: 2026-11-02T15:57:58.878Z
+createdAt: 2026-11-02T15:57:58.878Z
+updatedAt: 2026-11-02T15:57:58.878Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #93]
+Record ID: 6ae8bcf28cc7d64cf51bb6ea
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Pray For Me [ID: 6ae793dfee1c93c318548f33]
+playedAt: 2026-11-02T16:40:18.548Z
+createdAt: 2026-11-02T16:40:18.548Z
+updatedAt: 2026-11-02T16:40:18.548Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #94]
+Record ID: 6ae8bdff2c34d1b0a5e9e70a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Popular [ID: 6ae793faee1c93c318548f34]
+playedAt: 2026-11-02T16:44:47.665Z
+createdAt: 2026-11-02T16:44:47.671Z
+updatedAt: 2026-11-02T16:44:47.671Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #95]
+Record ID: 6ae8bfb74c0a1592a027ce56
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Popular [ID: 6ae793faee1c93c318548f34]
+playedAt: 2026-11-02T16:52:07.515Z
+createdAt: 2026-11-02T16:52:07.520Z
+updatedAt: 2026-11-02T16:52:07.520Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #96]
+Record ID: 6ae8bfb94c0a1592a027ce57
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Timeless [ID: 6ae79409ee1c93c318548f35]
+playedAt: 2026-11-02T16:52:09.962Z
+createdAt: 2026-11-02T16:52:09.962Z
+updatedAt: 2026-11-02T16:52:09.962Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #97]
+Record ID: 6ae8c01d4c0a1592a027ce58
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: After Hours [ID: 6ae79424ee1c93c318548f36]
+playedAt: 2026-11-02T16:53:49.893Z
+createdAt: 2026-11-02T16:53:49.906Z
+updatedAt: 2026-11-02T16:53:49.906Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #98]
+Record ID: 6ae8c03a4c0a1592a027ce59
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: After Hours [ID: 6ae79424ee1c93c318548f36]
+playedAt: 2026-11-02T16:54:18.992Z
+createdAt: 2026-11-02T16:54:18.993Z
+updatedAt: 2026-11-02T16:54:18.993Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #99]
+Record ID: 6ae8c12e4c0a1592a027ce5a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Is There Someone Else? [ID: 6ae7948bee1c93c318548f37]
+playedAt: 2026-11-02T16:58:22.948Z
+createdAt: 2026-11-02T16:58:22.948Z
+updatedAt: 2026-11-02T16:58:22.948Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #100]
+Record ID: 6ae8c1bfe94693ff110bc9f7
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Blinding Lights [ID: 6ae7949bee1c93c318548f38]
+playedAt: 2026-11-02T17:00:47.272Z
+createdAt: 2026-11-02T17:00:47.277Z
+updatedAt: 2026-11-02T17:00:47.277Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #101]
+Record ID: 6ae8c2a7a81827dbc4113957
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Blinding Lights [ID: 6ae7949bee1c93c318548f38]
+playedAt: 2026-11-02T17:04:39.373Z
+createdAt: 2026-11-02T17:04:39.379Z
+updatedAt: 2026-11-02T17:04:39.379Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #102]
+Record ID: 6ae8c37ca81827dbc4113958
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: São Paulo [ID: 6ae791dcee1c93c318548f31]
+playedAt: 2026-11-02T17:08:12.804Z
+createdAt: 2026-11-02T17:08:12.807Z
+updatedAt: 2026-11-02T17:08:12.807Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #103]
+Record ID: 6ae8c387a81827dbc4113959
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Pray For Me [ID: 6ae793dfee1c93c318548f33]
+playedAt: 2026-11-02T17:08:23.613Z
+createdAt: 2026-11-02T17:08:23.616Z
+updatedAt: 2026-11-02T17:08:23.616Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #104]
+Record ID: 6ae8c40ea81827dbc411395a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-02T17:10:38.528Z
+createdAt: 2026-11-02T17:10:38.529Z
+updatedAt: 2026-11-02T17:10:38.529Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #105]
+Record ID: 6ae9598855176fa866f4b092
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Often [ID: 6ae8c59b30f025fd227352e1]
+playedAt: 2026-11-03T03:48:24.645Z
+createdAt: 2026-11-03T03:48:24.653Z
+updatedAt: 2026-11-03T03:48:24.653Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #106]
+Record ID: 6ae959c255176fa866f4b093
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Play Date [ID: 6ae234815edf9cb7b9007ca1]
+playedAt: 2026-11-03T03:49:22.843Z
+createdAt: 2026-11-03T03:49:22.843Z
+updatedAt: 2026-11-03T03:49:22.843Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #107]
+Record ID: 6ae95a7755176fa866f4b094
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Reminder [ID: 6ae234815edf9cb7b9007ca2]
+playedAt: 2026-11-03T03:52:23.506Z
+createdAt: 2026-11-03T03:52:23.507Z
+updatedAt: 2026-11-03T03:52:23.507Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #108]
+Record ID: 6ae98d6d0f41d93cfb3ce057
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-03T07:29:49.487Z
+createdAt: 2026-11-03T07:29:49.493Z
+updatedAt: 2026-11-03T07:29:49.493Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #109]
+Record ID: 6aec9c8e2855af64b0d03190
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-05T15:11:10.878Z
+createdAt: 2026-11-05T15:11:10.884Z
+updatedAt: 2026-11-05T15:11:10.884Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #110]
+Record ID: 6aeca6c9fc79cf107774d3e3
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-05T15:54:49.806Z
+createdAt: 2026-11-05T15:54:49.810Z
+updatedAt: 2026-11-05T15:54:49.810Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #111]
+Record ID: 6aeca707fc79cf107774d3e4
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Music to watch boys to [ID: 6ae234815edf9cb7b9007c90]
+playedAt: 2026-11-05T15:55:51.794Z
+createdAt: 2026-11-05T15:55:51.795Z
+updatedAt: 2026-11-05T15:55:51.795Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #112]
+Record ID: 6aeca70cfc79cf107774d3e5
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-05T15:55:56.082Z
+createdAt: 2026-11-05T15:55:56.082Z
+updatedAt: 2026-11-05T15:55:56.082Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #113]
+Record ID: 6aecb3dd2d79ef4c5936c6b3
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-05T16:50:37.920Z
+createdAt: 2026-11-05T16:50:37.928Z
+updatedAt: 2026-11-05T16:50:37.928Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #114]
+Record ID: 6aef455845c8bf29f480ed7a
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Moth To A Flame [ID: 6ae234815edf9cb7b9007c91]
+playedAt: 2026-11-07T15:35:52.681Z
+createdAt: 2026-11-07T15:35:52.687Z
+updatedAt: 2026-11-07T15:35:52.687Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #115]
+Record ID: 6aef4f379486dda7edb8addd
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Starboy [ID: 6ae7935cee1c93c318548f32]
+playedAt: 2026-11-07T16:17:59.779Z
+createdAt: 2026-11-07T16:17:59.785Z
+updatedAt: 2026-11-07T16:17:59.785Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #116]
+Record ID: 6aef4f429486dda7edb8adde
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Is There Someone Else? [ID: 6ae7948bee1c93c318548f37]
+playedAt: 2026-11-07T16:18:10.057Z
+createdAt: 2026-11-07T16:18:10.058Z
+updatedAt: 2026-11-07T16:18:10.058Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #117]
+Record ID: 6aef4f459486dda7edb8addf
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: TORE UP [ID: 6ae8c71e30f025fd227352e2]
+playedAt: 2026-11-07T16:18:13.852Z
+createdAt: 2026-11-07T16:18:13.853Z
+updatedAt: 2026-11-07T16:18:13.853Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #118]
+Record ID: 6aef4f4c9486dda7edb8ade0
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Telepatia [ID: 6ae234815edf9cb7b9007ca8]
+playedAt: 2026-11-07T16:18:20.995Z
+createdAt: 2026-11-07T16:18:20.996Z
+updatedAt: 2026-11-07T16:18:20.996Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #119]
+Record ID: 6aef57c9483d163e5b72f214
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: Loser [ID: 6ae234815edf9cb7b9007c9c]
+playedAt: 2026-11-07T16:54:33.195Z
+createdAt: 2026-11-07T16:54:33.203Z
+updatedAt: 2026-11-07T16:54:33.203Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #120]
+Record ID: 6af02bf883dca6b8f887b104
+User: MEET [ID: 6ae37a5f88e804befe88dfa4]
+Song: I Wanna Be Yours [ID: 6af02be79b610ba9e3660d44]
+playedAt: 2026-11-08T07:59:52.097Z
+createdAt: 2026-11-08T07:59:52.103Z
+updatedAt: 2026-11-08T07:59:52.103Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #121]
+Record ID: 6af0441c31f4375026f32a87
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:42:52.212Z
+createdAt: 2026-11-08T09:42:52.212Z
+updatedAt: 2026-11-08T09:42:52.212Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #122]
+Record ID: 6af044fa31f4375026f32a88
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:46:34.989Z
+createdAt: 2026-11-08T09:46:34.989Z
+updatedAt: 2026-11-08T09:46:34.989Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #123]
+Record ID: 6af045b631f4375026f32a89
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:49:42.172Z
+createdAt: 2026-11-08T09:49:42.173Z
+updatedAt: 2026-11-08T09:49:42.173Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #124]
+Record ID: 6af0463c5cb5d60c71d81af2
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-11-08T09:51:56.679Z
+createdAt: 2026-11-08T09:51:56.687Z
+updatedAt: 2026-11-08T09:51:56.687Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #125]
+Record ID: 6af046bd9bac4115f8ce2d8b
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-11-08T09:54:05.020Z
+createdAt: 2026-11-08T09:54:05.024Z
+updatedAt: 2026-11-08T09:54:05.024Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #126]
+Record ID: 6af0473a9bac4115f8ce2d8c
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:56:10.133Z
+createdAt: 2026-11-08T09:56:10.134Z
+updatedAt: 2026-11-08T09:56:10.134Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #127]
+Record ID: 6af0473e9bac4115f8ce2d8d
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:56:14.483Z
+createdAt: 2026-11-08T09:56:14.483Z
+updatedAt: 2026-11-08T09:56:14.483Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #128]
+Record ID: 6af047559bac4115f8ce2d8e
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: ﻿The sexy you is out uh... Push the feeling on x Hotel room [ID: 6ae234815edf9cb7b9007c94]
+playedAt: 2026-11-08T09:56:37.253Z
+createdAt: 2026-11-08T09:56:37.253Z
+updatedAt: 2026-11-08T09:56:37.253Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #129]
+Record ID: 6af047559bac4115f8ce2d8f
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:56:37.909Z
+createdAt: 2026-11-08T09:56:37.909Z
+updatedAt: 2026-11-08T09:56:37.909Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #130]
+Record ID: 6af0477d9bac4115f8ce2d90
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: JUDAS [ID: 6af02dcf9b610ba9e3660d48]
+playedAt: 2026-11-08T09:57:17.388Z
+createdAt: 2026-11-08T09:57:17.388Z
+updatedAt: 2026-11-08T09:57:17.388Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #131]
+Record ID: 6af048799bac4115f8ce2d91
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: OHMAMI [ID: 6af02e429b610ba9e3660d49]
+playedAt: 2026-11-08T10:01:29.142Z
+createdAt: 2026-11-08T10:01:29.142Z
+updatedAt: 2026-11-08T10:01:29.142Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #132]
+Record ID: 6af048929bac4115f8ce2d92
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: Is There Someone Else? [ID: 6ae7948bee1c93c318548f37]
+playedAt: 2026-11-08T10:01:54.422Z
+createdAt: 2026-11-08T10:01:54.422Z
+updatedAt: 2026-11-08T10:01:54.422Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #133]
+Record ID: 6af048989bac4115f8ce2d93
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: I Wanna Be Yours [ID: 6af02be79b610ba9e3660d44]
+playedAt: 2026-11-08T10:02:00.900Z
+createdAt: 2026-11-08T10:02:00.900Z
+updatedAt: 2026-11-08T10:02:00.900Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #134]
+Record ID: 6af048a59bac4115f8ce2d94
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: OHMAMI [ID: 6af02e429b610ba9e3660d49]
+playedAt: 2026-11-08T10:02:13.222Z
+createdAt: 2026-11-08T10:02:13.222Z
+updatedAt: 2026-11-08T10:02:13.222Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #135]
+Record ID: 6af048c09bac4115f8ce2d95
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: I Wanna Be Yours [ID: 6af02be79b610ba9e3660d44]
+playedAt: 2026-11-08T10:02:40.542Z
+createdAt: 2026-11-08T10:02:40.542Z
+updatedAt: 2026-11-08T10:02:40.542Z
+  v: 0
+------------------------------------------------------------------------
+
+[LISTENING HISTORY #136]
+Record ID: 6af0490f9bac4115f8ce2d96
+User: ZARA [ID: 6aee2206830d985de6022db8]
+Song: OHMAMI [ID: 6af02e429b610ba9e3660d49]
+playedAt: 2026-11-08T10:03:59.793Z
+createdAt: 2026-11-08T10:03:59.793Z
+updatedAt: 2026-11-08T10:03:59.793Z
+  v: 0
+------------------------------------------------------------------------

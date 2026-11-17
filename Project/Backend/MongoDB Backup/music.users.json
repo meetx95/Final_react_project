@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "username": "MEET",
+  "email": "gamitmeet901@gmail.com",
+  "password": "$2b$10$/ipvwYartAcfV8G2RIzvGOX/tYKKvtMH0D0Dugt7RKp6SfBegmocO",
+  "profileImage": "",
+  "likedSongs": [
+    {
+      "$oid": "6ae234815edf9cb7b9007c92"
+    },
+    {
+      "$oid": "6ae234815edf9cb7b9007c9e"
+    },
+    {
+      "$oid": "6ae234815edf9cb7b9007c96"
+    },
+    {
+      "$oid": "6ae234815edf9cb7b9007c94"
+    },
+    {
+      "$oid": "6ae234815edf9cb7b9007ca6"
+    }
+  ],
+  "followedArtists": [
+    {
+      "$oid": "6ae3735d7c37c90e71c1de95"
+    },
+    {
+      "$oid": "6ae3735d7c37c90e71c1de99"
+    },
+    {
+      "$oid": "6ae3735d7c37c90e71c1de8f"
+    },
+    {
+      "$oid": "6ae3735d7c37c90e71c1de97"
+    },
+    {
+      "$oid": "6ae3735d7c37c90e71c1de93"
+    },
+    {
+      "$oid": "6ae710eb4aa5d74f7332d191"
+    },
+    {
+      "$oid": "6ae716534aa5d74f7332d193"
+    },
+    {
+      "$oid": "6ae78873ee1c93c318548f2e"
+    },
+    {
+      "$oid": "6ae6ed841044b04db43a6a07"
+    },
+    {
+      "$oid": "6ae78722ee1c93c318548f2d"
+    },
+    {
+      "$oid": "6ae6150297a52730cf5ffdd3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T16:54:55.569Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T08:01:38.959Z"
+  },
+  "__v": 18
+},
+{
+  "_id": {
+    "$oid": "6aee21cf830d985de6022db7"
+  },
+  "username": "HEET",
+  "email": "gamitheet901@gmail.com",
+  "password": "$2b$10$F5lpWX.J4LaRlWf9sZ1.0Oq7dHPrzZbdjcg3ADQhH1f5OQgjiA8cm",
+  "profileImage": "",
+  "likedSongs": [],
+  "followedArtists": [],
+  "createdAt": {
+    "$date": "2026-11-06T18:51:59.054Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-06T18:51:59.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "username": "ZARA",
+  "email": "zara901@gmail.com",
+  "password": "$2b$10$fU7HbUEMOiSbmYtes55QH.IefGtRYBF9yV3MbvegZBwgLJockRy4u",
+  "profileImage": "",
+  "likedSongs": [
+    {
+      "$oid": "6af02dcf9b610ba9e3660d48"
+    }
+  ],
+  "followedArtists": [],
+  "createdAt": {
+    "$date": "2026-11-06T18:52:54.816Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:43:25.048Z"
+  },
+  "__v": 1
+}]

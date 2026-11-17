@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "6ae3735d7c37c90e71c1de8f"
+  },
+  "name": "Lana Del Rey",
+  "__v": 0,
+  "bio": "Lana Del Rey (Elizabeth Woolridge Grant) is an American alternative pop and dream pop singer-songwriter",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.873Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist1.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T16:12:01.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae3735d7c37c90e71c1de93"
+  },
+  "name": "The weekend",
+  "__v": 0,
+  "bio": "The Weeknd (Abel Makkonen Tesfaye) is a famous Canadian singer, songwriter, and producer known for his alternative R&B and chart-topping hits.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.907Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist2.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T16:12:07.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae3735d7c37c90e71c1de95"
+  },
+  "name": "Arctic Monkeys",
+  "__v": 0,
+  "bio": "Music by Arctic Monkeys",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist3.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6136297a52730cf5ffdd2"
+  },
+  "name": "Sia",
+  "__v": 0,
+  "bio": "Sia (Sia Kate Isobelle Furler) is an Australian singer, songwriter, and music video director.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist5.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6150297a52730cf5ffdd3"
+  },
+  "name": "Chase Atlantic",
+  "__v": 0,
+  "bio": "Chase Atlantic is an Australian alternative R&B and pop-rock band formed in Cairns, Queensland, in 2014.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist6.jpg",
+  "updatedAt": {
+    "$date": "2026-11-08T08:01:38.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae61b6b97a52730cf5ffdd4"
+  },
+  "name": "Independent Lemon",
+  "__v": 0,
+  "bio": "Independent Lemon is a music artist and producer known for viral remixes, slowed/reverb tracks, and sped-up edits popular on social media platforms like TikTok, YouTube, and Spotify.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist7.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae61c6197a52730cf5ffdd5"
+  },
+  "name": "TV Girl",
+  "__v": 0,
+  "bio": "TV Girl is an American indie pop band formed in San Diego, California in 2010.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist8.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae61f3097a52730cf5ffdd7"
+  },
+  "name": "Dhruv",
+  "__v": 0,
+  "bio": "Dhruv Sharma is a British-born, Singapore-raised singer-songwriter of Indian descent best known for his breakout 2019 sleeper hit single \"Double Take\"",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist9.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae61ffb97a52730cf5ffdd8"
+  },
+  "name": "Tame Impala",
+  "__v": 0,
+  "bio": "Tame Impala is the psychedelic music and art project of Australian multi-instrumentalist, singer, and songwriter Kevin Parker.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist4.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6215c97a52730cf5ffdd9"
+  },
+  "name": "The Stranglers",
+  "__v": 0,
+  "bio": "The Stranglers are an English rock band formed in Guildford, Surrey, in 1974.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist10.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6265897a52730cf5ffdda"
+  },
+  "name": "Dreamsoda",
+  "__v": 0,
+  "bio": "dreamsoda is an independent digital music producer, remix artist, and songwriter who gained massive online popularity for producing viral TikTok remixes, sped-up tracks, and stylized mashups.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist11.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6ed841044b04db43a6a07"
+  },
+  "name": "Shiloh Dynasty",
+  "__v": 0,
+  "bio": "Shiloh Dynasty (born Ciara Nicole Simms) is an American indie singer-songwriter from Maryland who became a mysterious cult figure in the lo-fi and emo-rap music scenes.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist12.jpg",
+  "updatedAt": {
+    "$date": "2026-11-03T07:46:05.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae6effe1044b04db43a6a0c"
+  },
+  "name": "Don Toliver",
+  "__v": 0,
+  "bio": "Don Toliver (born Caleb Zackery Toliver on June 12, 1994) is an American rapper, singer, and songwriter from Houston, Texas.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist13.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae710eb4aa5d74f7332d191"
+  },
+  "name": "Alan Walker",
+  "__v": 0,
+  "bio": "Alan Walker is a world-renowned Norwegian-British DJ and record producer. He shot to international stardom in 2015 with his multi-platinum electronic smash hit \"Faded\".",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist14.jpg",
+  "updatedAt": {
+    "$date": "2026-11-01T10:18:36.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae7141b4aa5d74f7332d192"
+  },
+  "name": "Lil Tecca",
+  "__v": 0,
+  "bio": "Lil Tecca is an American rapper, singer-songwriter, and record producer born Tyler-Justin Anthony Sharpe on August 26, 2002, in Queens, New York.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist15.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae716534aa5d74f7332d193"
+  },
+  "name": "Melanie Martinez",
+  "__v": 0,
+  "bio": "Melanie Martinez is an American singer-songwriter, director, and visual artist who carved out a unique space in alternative pop by blending whimsical, childlike aesthetics with dark, mature storytelling.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist16.jpg",
+  "updatedAt": {
+    "$date": "2026-11-01T10:59:48.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae718484aa5d74f7332d194"
+  },
+  "name": "Jay Sean",
+  "__v": 0,
+  "bio": "",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist17.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae71d8b4aa5d74f7332d195"
+  },
+  "name": "Mattyeux",
+  "__v": 0,
+  "bio": "Matthieu Reynaud, known by his stage name of Mattyeux, is a French singer-songwriter, record producer, and musician. He was the singer and primary producer for the French pop duo Videoclub with Adèle Castillon, from 2018 until 2021.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist18.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae77a9eee1c93c318548f28"
+  },
+  "name": "Shawn Mendes",
+  "__v": 0,
+  "bio": "Shawn Peter Raul Mendes is a Canadian singer, songwriter, and musician. Mendes gained early recognition for posting popular song covers on the social media platforms YouTube and Vine. He later signed to Island Records and released his self-titled debut EP in 2014.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist19.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae77beaee1c93c318548f29"
+  },
+  "name": "Pastel Ghost",
+  "__v": 0,
+  "bio": "Pastel Ghost is the stage name of Vivian Moon, an American electronic musician, singer, songwriter, and producer.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist20.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae77d68ee1c93c318548f2a"
+  },
+  "name": "Edward Maya",
+  "__v": 0,
+  "bio": "Eduard Marian Ilie, better known by his stage name Edward Maya, is a Romanian musician, record producer, DJ and songwriter. He is known for his 2009 smash hit single \"Stereo Love\".",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist21.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae77e31ee1c93c318548f2b"
+  },
+  "name": "Kali Uchis",
+  "__v": 0,
+  "bio": "Karly Marina Loaiza, known professionally as Kali Uchis, is an American singer-songwriter. Her accolades include a Grammy Award, an American Music Award, two Billboard Music Awards, and four nominations for a Latin Grammy Award.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist22.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae78668ee1c93c318548f2c"
+  },
+  "name": "Summer Walker",
+  "__v": 0,
+  "bio": "Summer Walker is an American R&B singer and songwriter known for her raw, soulful vocals and vulnerable lyrics.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 0,
+  "image": "/media/images/artist/artist23.jpg",
+  "updatedAt": {
+    "$date": "2026-10-30T14:12:39.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae78722ee1c93c318548f2d"
+  },
+  "name": "MXZI",
+  "__v": 0,
+  "bio": "MXZI (real name Dominic Balog) is a London-born electronic music producer, artist, and songwriter known for helping drive the mainstream growth of Brazilian phonk and Baile funk.",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist24.jpg",
+  "updatedAt": {
+    "$date": "2026-11-03T07:46:14.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae78873ee1c93c318548f2e"
+  },
+  "name": "Charlie Puth",
+  "__v": 0,
+  "bio": "Charlie Puth transitioned from his blockbuster debut album Nine Track Mind to a more personal, self-produced artistic direction with his sophomore album, Voicenotes (2018).",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist25.jpg",
+  "updatedAt": {
+    "$date": "2026-11-01T19:12:30.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af02d709b610ba9e3660d47"
+  },
+  "name": "Lady Gaga",
+  "__v": 0,
+  "bio": "",
+  "createdAt": {
+    "$date": "2026-10-29T16:25:01.918Z"
+  },
+  "followers": 1,
+  "image": "/media/images/artist/artist26.jpg",
+  "updatedAt": {
+    "$date": "2026-11-01T19:12:30.691Z"
+  }
+}]

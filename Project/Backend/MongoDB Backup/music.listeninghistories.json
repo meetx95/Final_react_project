@@ -1,0 +1,2856 @@
+[{
+  "_id": {
+    "$oid": "6ae37a9d88e804befe88dfa5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae3735d7c37c90e71c1dea0"
+  },
+  "playedAt": {
+    "$date": "2026-10-29T16:55:57.496Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-29T16:55:57.496Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T16:55:57.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae37b0188e804befe88dfa6"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae3735d7c37c90e71c1dea0"
+  },
+  "playedAt": {
+    "$date": "2026-10-29T16:57:37.927Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-29T16:57:37.927Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T16:57:37.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae37b0388e804befe88dfa7"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae3735d7c37c90e71c1de9e"
+  },
+  "playedAt": {
+    "$date": "2026-10-29T16:57:39.689Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-29T16:57:39.689Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T16:57:39.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae48545d7b867a0dc8b0d9a"
+  },
+  "user": {
+    "$oid": "6ae48542d7b867a0dc8b0d99"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T11:53:41.457Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T11:53:41.457Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T11:53:41.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae485fe60ffb6524247348f"
+  },
+  "user": {
+    "$oid": "6ae48542d7b867a0dc8b0d99"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T11:56:46.816Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T11:56:46.823Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T11:56:46.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4860660ffb65242473490"
+  },
+  "user": {
+    "$oid": "6ae48542d7b867a0dc8b0d99"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T11:56:54.547Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T11:56:54.548Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T11:56:54.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a33c15d72ce09f5d7e6e"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:01:32.198Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:01:32.210Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:01:32.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a49b15d72ce09f5d7e6f"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9b"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:07:23.393Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:07:23.393Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:07:23.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a54515d72ce09f5d7e71"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:10:13.702Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:10:13.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:10:13.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a54f15d72ce09f5d7e72"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:10:23.158Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:10:23.158Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:10:23.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a55115d72ce09f5d7e73"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c92"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:10:25.923Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:10:25.923Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:10:25.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a55315d72ce09f5d7e74"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c93"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:10:27.024Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:10:27.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:10:27.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a55b15d72ce09f5d7e75"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:10:35.758Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:10:35.758Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:10:35.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4a57b15d72ce09f5d7e76"
+  },
+  "user": {
+    "$oid": "6ae4a54015d72ce09f5d7e70"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9e"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T14:11:07.648Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T14:11:07.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T14:11:07.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bf113b03f2361dfd9e28"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:00:17.834Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:00:17.854Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:00:17.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bf133b03f2361dfd9e29"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c92"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:00:19.360Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:00:19.360Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:00:19.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bf4b3b03f2361dfd9e2a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c93"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:01:15.989Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:01:15.990Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:01:15.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bfc785eb94705b631a2b"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:03:19.022Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:03:19.031Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:03:19.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bfc885eb94705b631a2c"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c95"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:03:20.119Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:03:20.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:03:20.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4bfcf85eb94705b631a2d"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c96"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:03:27.112Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:03:27.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:03:27.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4c1275a0ab34a41577eb4"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c96"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:09:11.254Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:09:11.263Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:09:11.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4c12d5a0ab34a41577eb5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T16:09:17.326Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T16:09:17.326Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T16:09:17.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d00aeb242e829b79aafd"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:42.704Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:42.711Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:42.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d015eb242e829b79aafe"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:53.249Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:53.250Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:53.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d016eb242e829b79aaff"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9e"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:54.385Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:54.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:54.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d017eb242e829b79ab00"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9c"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:55.280Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:55.280Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:55.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d017eb242e829b79ab01"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c97"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:55.985Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:55.985Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:55.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae4d01beb242e829b79ab02"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c98"
+  },
+  "playedAt": {
+    "$date": "2026-10-30T17:12:59.329Z"
+  },
+  "createdAt": {
+    "$date": "2026-10-30T17:12:59.329Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-30T17:12:59.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70a97fd99f7f6f1fe60b4"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c93"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:47:03.298Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:47:03.304Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:47:03.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70a99fd99f7f6f1fe60b5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:47:05.719Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:47:05.720Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:47:05.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70b77fd99f7f6f1fe60b6"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c95"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:50:47.069Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:50:47.070Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:50:47.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70c4dfd99f7f6f1fe60b7"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:54:21.170Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:54:21.171Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:54:21.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cb5fd99f7f6f1fe60b8"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:05.453Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:05.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:05.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cb6fd99f7f6f1fe60b9"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:06.984Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:06.985Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:06.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbcfd99f7f6f1fe60ba"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:12.087Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:12.088Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:12.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbcfd99f7f6f1fe60bb"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca2"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:12.301Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:12.301Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:12.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbcfd99f7f6f1fe60bc"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca3"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:12.944Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:12.945Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:12.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbdfd99f7f6f1fe60bd"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:13.435Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:13.435Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:13.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbdfd99f7f6f1fe60be"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca5"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:13.932Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:13.932Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:13.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbefd99f7f6f1fe60bf"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca6"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:14.585Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:14.585Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:14.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbffd99f7f6f1fe60c0"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca7"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:15.312Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:15.312Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:15.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cbffd99f7f6f1fe60c1"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:15.947Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:15.947Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:15.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70cc0fd99f7f6f1fe60c2"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:56:16.780Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:56:16.780Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:56:16.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70d0b934eb9c9be6c73da"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:57:31.312Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:57:31.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:57:31.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70d9b934eb9c9be6c73db"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007caa"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T09:59:55.218Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T09:59:55.218Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T09:59:55.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70da0934eb9c9be6c73dc"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:00.660Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:00.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:00.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70da2934eb9c9be6c73dd"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:02.583Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:02.584Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:02.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70da5934eb9c9be6c73de"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:05.834Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:05.835Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:05.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70da6934eb9c9be6c73df"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c92"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:06.778Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:06.779Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:06.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70db4934eb9c9be6c73e0"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007caa"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:20.539Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:20.539Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:20.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70db7934eb9c9be6c73e1"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007cab"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:23.206Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:23.206Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:23.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70db9934eb9c9be6c73e2"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:25.025Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:25.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:25.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70dba934eb9c9be6c73e3"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:26.762Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:26.762Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:26.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70dbc934eb9c9be6c73e4"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:28.979Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:28.979Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:28.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70dbf934eb9c9be6c73e5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:31.614Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:31.614Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:31.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70dc1934eb9c9be6c73e6"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:33.056Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:33.056Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:33.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70dc7934eb9c9be6c73e7"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9a"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:00:39.289Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:00:39.289Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:00:39.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70e7c934eb9c9be6c73e8"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9a"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:03:40.973Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:03:40.973Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:03:40.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae70f12934eb9c9be6c73e9"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9b"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:06:10.431Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:06:10.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:06:10.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7102d934eb9c9be6c73ea"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9f"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:10:53.095Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:10:53.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:10:53.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae710ef934eb9c9be6c73eb"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:14:07.375Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:14:07.375Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:14:07.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7110d934eb9c9be6c73ec"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9f"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:14:37.194Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:14:37.194Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:14:37.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae711cf934eb9c9be6c73ed"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca0"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:17:51.416Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:17:51.416Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:17:51.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae71232934eb9c9be6c73ee"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:19:30.076Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:19:30.077Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:19:30.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae712e6934eb9c9be6c73ef"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca2"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:22:30.197Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:22:30.197Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:22:30.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae714f1934eb9c9be6c73f0"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:31:13.007Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:31:13.007Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:31:13.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae715a5934eb9c9be6c73f1"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca2"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:34:13.127Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:34:13.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:34:13.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae71b6ee77e3a1b1494fc71"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T10:58:54.703Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T10:58:54.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T10:58:54.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae71c29e77e3a1b1494fc72"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca5"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T11:02:01.180Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T11:02:01.181Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T11:02:01.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae71c35e77e3a1b1494fc73"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T11:02:13.667Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T11:02:13.668Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T11:02:13.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae71ce9e77e3a1b1494fc74"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca5"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T11:05:13.950Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T11:05:13.951Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T11:05:13.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae7748bc39b907c78e113c1"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:19:07.808Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:19:07.817Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:19:07.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae774e3c39b907c78e113c2"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:20:35.479Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:20:35.480Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:20:35.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77546c39b907c78e113c3"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca5"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:22:14.405Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:22:14.406Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:22:14.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae775fdc39b907c78e113c4"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca4"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:25:17.059Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:25:17.060Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:25:17.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77b31c39b907c78e113c5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca6"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:47:29.191Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:47:29.191Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:47:29.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77cf5e6e86edff67c8600"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca7"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:55:01.025Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:55:01.029Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:55:01.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77d9be6e86edff67c8601"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:57:47.553Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:57:47.553Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:57:47.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77db8e6e86edff67c8602"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:58:16.503Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:58:16.503Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:58:16.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77ddde6e86edff67c8603"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T17:58:53.166Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T17:58:53.166Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T17:58:53.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae77f35cf7e1662ec9613ca"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca9"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T18:04:37.044Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T18:04:37.052Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T18:04:37.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae782dbcf7e1662ec9613cb"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007caa"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T18:20:11.331Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T18:20:11.332Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T18:20:11.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae785cda45b026df3c36d19"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007caa"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T18:32:45.190Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T18:32:45.195Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T18:32:45.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae785eca45b026df3c36d1a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007cab"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T18:33:16.818Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T18:33:16.818Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T18:33:16.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae78820a45b026df3c36d1b"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007cad"
+  },
+  "playedAt": {
+    "$date": "2026-11-01T18:42:40.101Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-01T18:42:40.102Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-01T18:42:40.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8a1f46bac736e9c9d5901"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae791dcee1c93c318548f31"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T14:45:08.484Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T14:45:08.489Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T14:45:08.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8a28c6bac736e9c9d5902"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7935cee1c93c318548f32"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T14:47:40.843Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T14:47:40.853Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T14:47:40.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8a36d6bac736e9c9d5903"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae791dcee1c93c318548f31"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T14:51:25.936Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T14:51:25.936Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T14:51:25.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8a4036bac736e9c9d5904"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7935cee1c93c318548f32"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T14:53:55.009Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T14:53:55.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T14:53:55.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8a4e96bac736e9c9d5905"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae793dfee1c93c318548f33"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T14:57:45.706Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T14:57:45.707Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T14:57:45.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8b2fa8cc7d64cf51bb6e8"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T15:57:46.240Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T15:57:46.248Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T15:57:46.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8b3068cc7d64cf51bb6e9"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7935cee1c93c318548f32"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T15:57:58.878Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T15:57:58.878Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T15:57:58.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8bcf28cc7d64cf51bb6ea"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae793dfee1c93c318548f33"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:40:18.548Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:40:18.548Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:40:18.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8bdff2c34d1b0a5e9e70a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae793faee1c93c318548f34"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:44:47.665Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:44:47.671Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:44:47.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8bfb74c0a1592a027ce56"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae793faee1c93c318548f34"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:52:07.515Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:52:07.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:52:07.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8bfb94c0a1592a027ce57"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae79409ee1c93c318548f35"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:52:09.962Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:52:09.962Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:52:09.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c01d4c0a1592a027ce58"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae79424ee1c93c318548f36"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:53:49.893Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:53:49.906Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:53:49.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c03a4c0a1592a027ce59"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae79424ee1c93c318548f36"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:54:18.992Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:54:18.993Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:54:18.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c12e4c0a1592a027ce5a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7948bee1c93c318548f37"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T16:58:22.948Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T16:58:22.948Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T16:58:22.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c1bfe94693ff110bc9f7"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7949bee1c93c318548f38"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T17:00:47.272Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T17:00:47.277Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T17:00:47.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c2a7a81827dbc4113957"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7949bee1c93c318548f38"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T17:04:39.373Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T17:04:39.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T17:04:39.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c37ca81827dbc4113958"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae791dcee1c93c318548f31"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T17:08:12.804Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T17:08:12.807Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T17:08:12.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c387a81827dbc4113959"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae793dfee1c93c318548f33"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T17:08:23.613Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T17:08:23.616Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T17:08:23.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae8c40ea81827dbc411395a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-02T17:10:38.528Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-02T17:10:38.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-02T17:10:38.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae9598855176fa866f4b092"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae8c59b30f025fd227352e1"
+  },
+  "playedAt": {
+    "$date": "2026-11-03T03:48:24.645Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-03T03:48:24.653Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-03T03:48:24.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae959c255176fa866f4b093"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca1"
+  },
+  "playedAt": {
+    "$date": "2026-11-03T03:49:22.843Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-03T03:49:22.843Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-03T03:49:22.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae95a7755176fa866f4b094"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca2"
+  },
+  "playedAt": {
+    "$date": "2026-11-03T03:52:23.506Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-03T03:52:23.507Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-03T03:52:23.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae98d6d0f41d93cfb3ce057"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-03T07:29:49.487Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-03T07:29:49.493Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-03T07:29:49.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aec9c8e2855af64b0d03190"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-05T15:11:10.878Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-05T15:11:10.884Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-05T15:11:10.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aeca6c9fc79cf107774d3e3"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-05T15:54:49.806Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-05T15:54:49.810Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-05T15:54:49.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aeca707fc79cf107774d3e4"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c90"
+  },
+  "playedAt": {
+    "$date": "2026-11-05T15:55:51.794Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-05T15:55:51.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-05T15:55:51.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aeca70cfc79cf107774d3e5"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-05T15:55:56.082Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-05T15:55:56.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-05T15:55:56.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aecb3dd2d79ef4c5936c6b3"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-05T16:50:37.920Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-05T16:50:37.928Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-05T16:50:37.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef455845c8bf29f480ed7a"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c91"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T15:35:52.681Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T15:35:52.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T15:35:52.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef4f379486dda7edb8addd"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7935cee1c93c318548f32"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T16:17:59.779Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T16:17:59.785Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T16:17:59.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef4f429486dda7edb8adde"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae7948bee1c93c318548f37"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T16:18:10.057Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T16:18:10.058Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T16:18:10.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef4f459486dda7edb8addf"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae8c71e30f025fd227352e2"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T16:18:13.852Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T16:18:13.853Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T16:18:13.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef4f4c9486dda7edb8ade0"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007ca8"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T16:18:20.995Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T16:18:20.996Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T16:18:20.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aef57c9483d163e5b72f214"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c9c"
+  },
+  "playedAt": {
+    "$date": "2026-11-07T16:54:33.195Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-07T16:54:33.203Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-07T16:54:33.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af02bf883dca6b8f887b104"
+  },
+  "user": {
+    "$oid": "6ae37a5f88e804befe88dfa4"
+  },
+  "song": {
+    "$oid": "6af02be79b610ba9e3660d44"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T07:59:52.097Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T07:59:52.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T07:59:52.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0441c31f4375026f32a87"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:42:52.212Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:42:52.212Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:42:52.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af044fa31f4375026f32a88"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:46:34.989Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:46:34.989Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:46:34.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af045b631f4375026f32a89"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:49:42.172Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:49:42.173Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:49:42.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0463c5cb5d60c71d81af2"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:51:56.679Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:51:56.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:51:56.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af046bd9bac4115f8ce2d8b"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:54:05.020Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:54:05.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:54:05.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0473a9bac4115f8ce2d8c"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:56:10.133Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:56:10.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:56:10.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0473e9bac4115f8ce2d8d"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:56:14.483Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:56:14.483Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:56:14.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af047559bac4115f8ce2d8e"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6ae234815edf9cb7b9007c94"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:56:37.253Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:56:37.253Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:56:37.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af047559bac4115f8ce2d8f"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:56:37.909Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:56:37.909Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:56:37.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0477d9bac4115f8ce2d90"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02dcf9b610ba9e3660d48"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T09:57:17.388Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T09:57:17.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T09:57:17.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af048799bac4115f8ce2d91"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02e429b610ba9e3660d49"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:01:29.142Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:01:29.142Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:01:29.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af048929bac4115f8ce2d92"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6ae7948bee1c93c318548f37"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:01:54.422Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:01:54.422Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:01:54.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af048989bac4115f8ce2d93"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02be79b610ba9e3660d44"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:02:00.900Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:02:00.900Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:02:00.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af048a59bac4115f8ce2d94"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02e429b610ba9e3660d49"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:02:13.222Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:02:13.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:02:13.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af048c09bac4115f8ce2d95"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02be79b610ba9e3660d44"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:02:40.542Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:02:40.542Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:02:40.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af0490f9bac4115f8ce2d96"
+  },
+  "user": {
+    "$oid": "6aee2206830d985de6022db8"
+  },
+  "song": {
+    "$oid": "6af02e429b610ba9e3660d49"
+  },
+  "playedAt": {
+    "$date": "2026-11-08T10:03:59.793Z"
+  },
+  "createdAt": {
+    "$date": "2026-11-08T10:03:59.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-08T10:03:59.793Z"
+  },
+  "__v": 0
+}]
