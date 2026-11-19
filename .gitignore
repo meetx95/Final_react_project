@@ -5,3 +5,10 @@
 Frontend/src/assets/image/cover_album/*
 Frontend/src/assets/image/cover_song/*
 Frontend/src/assets/songs/*
+
+# Backend Assets
+Backend/public/images/Album1/*
+Backend/public/images/albums/*
+Backend/public/images/artist/*
+Backend/public/images/*
+Backend/public/songs/*
