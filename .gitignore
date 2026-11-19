@@ -1,4 +1,7 @@
-.history_machine
+# IDE / Editor
+.history_machine/
 
 # Frontend Assets
-Frontend\src\assets\image\cover_album\*
+Frontend/src/assets/image/cover_album/*
+Frontend/src/assets/image/cover_song/*
+Frontend/src/assets/songs/*
